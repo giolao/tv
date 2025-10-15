@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 udp://@225.1.4.1:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -94,4 +94,5 @@ https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace80
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",CẢI LƯƠNG
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
+
 https://stream.zeno.fm/4q7y9hvkp2zuv
