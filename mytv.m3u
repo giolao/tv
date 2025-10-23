@@ -51,7 +51,7 @@ udp://@225.1.4.11:30120
 udp://@225.1.4.63:30120
 #EXTINF:0 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT
 udp://@225.1.4.62:30120
-#EXTINF:0 tvg-id="" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/mwCTDMj.png",HÀ NỘI
+#EXTINF:0 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/mwCTDMj.png",HÀ NỘI
 udp://@225.1.4.203:30120
 #EXTINF:0 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/Logo/DongNaiTV1.png",ĐỒNG NAI
 udp://@225.1.4.124:30120
@@ -96,3 +96,4 @@ https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
 
 https://stream.zeno.fm/4q7y9hvkp2zuv
+
