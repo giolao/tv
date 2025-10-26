@@ -17,14 +17,6 @@ udp://@225.1.4.201:30120
 udp://@225.1.4.7:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="onsports" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB07vVPzQ5M3Sc9bH7MLSvEI/ts
-#EXTINF:0 tvg-id="onsportsplus" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB_DOmVeuE-7mEGIxDoKuNnA/ts
-#EXTINF:0 tvg-id="onfootball" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6Cec3bT38aFdbJkeMHs8sg/ts
-#EXTINF:0 tvg-id="onsportsnews" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS
-https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB-Pl2oy_1ntIc31kabp62gM/ts
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5HEfwZz.png",NGHỆ AN
 udp://@225.1.4.146:30120
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV
@@ -94,6 +86,6 @@ https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace80
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",CẢI LƯƠNG
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
-
 https://stream.zeno.fm/4q7y9hvkp2zuv
+
 
