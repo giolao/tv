@@ -17,6 +17,8 @@ udp://@225.1.4.201:30120
 udp://@225.1.4.7:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.4.8:30120
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV/VTVcab" tvg-logo="http://vietcago.xyz/Logo/VietnamToday.png",Vietnam Today
+udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5HEfwZz.png",NGHỆ AN
 udp://@225.1.4.146:30120
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV
@@ -87,5 +89,6 @@ https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace80
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
 https://stream.zeno.fm/4q7y9hvkp2zuv
+
 
 
