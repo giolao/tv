@@ -29,8 +29,6 @@ udp://@225.1.4.170:30120
 udp://@225.1.4.60:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV"tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv4k.png", SCTV4K 
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.4.55:30120
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
@@ -75,6 +73,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
