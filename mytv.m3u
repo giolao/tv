@@ -29,8 +29,6 @@ udp://@225.1.4.170:30120
 udp://@225.1.4.60:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV"tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv4k.png", SCTV4K 
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 udp://@225.1.4.55:30120
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
@@ -91,6 +89,7 @@ https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace80
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
 https://stream.zeno.fm/4q7y9hvkp2zuv
+
 
 
 
