@@ -79,28 +79,29 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Quốc Tế",Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Quốc Tế",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="SPORTS",Sky Sports Football
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Quốc Tế",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="SPORTS",Sky Sports F1
 https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Quốc Tế",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="SPORTS",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Quốc Tế",Sky Sports Tennis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="SPORTS",Sky Sports Tennis
 https://7pal.short.gy/ssportstn
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Quốc Tế", Hub Premier 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS", Hub Premier 1
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Quốc Tế", Hub Premier 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS", Hub Premier 2
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Quốc Tế", Hub Premier 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="SPORTS", Hub Premier 3
 https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="Quốc Tế", Now Sports Premier League 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="SPORTS", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="Quốc Tế", Now Sports Premier League 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="Quốc Tế", Now Sports Premier League 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3
 https://7pal.short.gy/nowhkp3
+
 
 
 
