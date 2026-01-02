@@ -17,8 +17,6 @@ udp://@225.1.4.201:30120
 udp://@225.1.4.7:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV/VTVcab" tvg-logo="http://vietcago.xyz/Logo/VietnamToday.png",Vietnam Today
-udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5HEfwZz.png",NGHỆ AN
 udp://@225.1.4.146:30120
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV
@@ -81,12 +79,29 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",BOLERO
-https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
-#EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",CẢI LƯƠNG
-https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:0 group-title="RADIO" tvg-logo="https://vietsimpletv.ucoz.com/Logo/zing.png",M RADIO
-https://stream.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Quốc Tế",Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Quốc Tế",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Quốc Tế",Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Quốc Tế",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Quốc Tế",Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Quốc Tế", Hub Premier 1
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Quốc Tế", Hub Premier 2
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Quốc Tế", Hub Premier 3
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="Quốc Tế", Now Sports Premier League 1
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="Quốc Tế", Now Sports Premier League 2
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="Quốc Tế", Now Sports Premier League 3
+https://7pal.short.gy/nowhkp3
+
 
 
 
