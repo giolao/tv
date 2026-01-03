@@ -83,7 +83,7 @@ udp://@225.1.4.13:30120
 https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hwc.png",Hollywood Classics
 https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
-#EXTINF:-1 group-title="QQUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/inthebox.png",In The Box
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/inthebox.png",In The Box
 https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
 https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
@@ -109,18 +109,19 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3
 https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="Sports",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="SPORTS",Fox Sports 1
 https://7pal.short.gy/fs1us
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="SPORTS",Fox Sports 2
 https://7pal.short.gy/fs2us
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="SPORTS", TNT Sports 1
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="SPORTS", TNT Sports 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="SPORTS", TNT Sports 3
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="SPORTS", TNT Sports 4
 https://7pal.short.gy/tntspts4
+
 
 
 
