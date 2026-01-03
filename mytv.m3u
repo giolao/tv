@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 udp://@225.1.4.1:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -79,13 +79,13 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxm1.png",Box Movies 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxm1.png",Box Movies 1
 https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hwc.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hwc.png",Hollywood Classics
 https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/inthebox.png",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/inthebox.png",In The Box
 https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
 https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
 https://7pal.short.gy/skspmaine
@@ -121,6 +121,7 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="SPORTS", TNT Sports 4
 https://7pal.short.gy/tntspts4
+
 
 
 
