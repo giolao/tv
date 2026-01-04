@@ -73,6 +73,25 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="SPORTS",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="SPORTS",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="SPORTS",Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="SPORTS", Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="SPORTS", Sky Sports+
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS", Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="SPORTS",Fox Sports 1
+https://7pal.short.gy/fs1us
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="SPORTS",Fox Sports 2
+https://7pal.short.gy/fs2us
+
 
 
 
