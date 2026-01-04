@@ -97,12 +97,16 @@ https://7pal.short.gy/ssportsf1
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="SPORTS",Sky Sports Tennis
 https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="SPORTS", Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="SPORTS", Sky Sports+
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS", Sportsnet 360
+https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS", Hub Premier 1
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS", Hub Premier 2
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="SPORTS", Hub Premier 3
-https://7pal.short.gy/HPremier3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="SPORTS", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2
@@ -113,14 +117,7 @@ https://7pal.short.gy/nowhkp3
 https://7pal.short.gy/fs1us
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="SPORTS",Fox Sports 2
 https://7pal.short.gy/fs2us
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="SPORTS", TNT Sports 1
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="SPORTS", TNT Sports 2
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="SPORTS", TNT Sports 3
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="SPORTS", TNT Sports 4
-https://7pal.short.gy/tntspts4
+
 
 
 
