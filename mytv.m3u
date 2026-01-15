@@ -123,6 +123,9 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="SPORTS", TNT Sports 4
 https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fightsports.png" group-title="SPORTS",Fight Sports
+http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+
 
 
 
