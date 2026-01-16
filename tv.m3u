@@ -77,6 +77,11 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Sports",Sky Sports F1
 https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS", Hub Premier 1
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fightsports.png" group-title="SPORTS",Fight Sports
+http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+
 
 
 
