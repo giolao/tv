@@ -37,10 +37,6 @@ https://7pal.short.gy/ssportspl
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="THỂ THAO",Prima 4K
-https://7pal.short.gy/prima4k
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="THỂ THAO",EuroSport 4K 
-https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 1
 http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 3
@@ -93,6 +89,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
