@@ -127,6 +127,9 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fightsports.png" group-title="SPORTS",Fight Sports
 http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
+https://7pal.short.gy/tennisc
+
 
 
 
