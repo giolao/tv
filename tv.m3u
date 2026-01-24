@@ -30,9 +30,9 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football
-https://7pal.short.gy/ssportsfb
+https://a1xs.vip/2000003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
+https://a1xs.vip/2000002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
@@ -93,6 +93,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
