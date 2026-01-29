@@ -104,9 +104,9 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="SPORTS", Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS", Hub Premier 1
-https://7pal.short.gy/HPremier1
+http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS", Hub Premier 2
-https://7pal.short.gy/HPremier2
+http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="SPORTS", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS", Now Sports Premier League 2
@@ -129,6 +129,7 @@ https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
 http://hls.iill.top/api/Fight-Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
+
 
 
 
