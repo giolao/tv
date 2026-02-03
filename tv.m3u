@@ -27,24 +27,32 @@ udp://@225.1.4.170:30120
 udp://@225.1.4.60:30120
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event 4K
-https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO", Sky Sports Main Event
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO", Sky Sports F1
+https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 4K
-https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
+https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
+https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
-https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 4K
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 4K
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="THỂ THAO",TNT Sports Ultimate 4K
+https://a1xs.vip/2000031
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="THỂ THAO",Prima 4K
 https://7pal.short.gy/prima4k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="THỂ THAO",EuroSport 4K 
@@ -95,6 +103,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
