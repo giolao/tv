@@ -39,16 +39,10 @@ https://7pal.short.gy/SSF1uhd
 https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 1
-http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 3
-http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fightsports.png" group-title="THỂ THAO",Fight Sports
-http://hls.iill.top/api/Fight-Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="THỂ THAO",Prima 4K
@@ -101,6 +95,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
