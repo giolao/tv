@@ -49,6 +49,8 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="SPORTS",beIN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 4K
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 4K
@@ -99,6 +101,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
