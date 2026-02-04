@@ -99,6 +99,8 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="SPORTS",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="SPORTS", Sky Sport Premier League NZ
+https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="SPORTS",Sky Sports Tennis
 https://7pal.short.gy/ssportstn 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="SPORTS", Sky Sports Action
@@ -113,10 +115,8 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3
 https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="SPORTS",beIN Sports 1
-http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="SPORTS",beIN Sports 3
-http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="SPORTS",beIN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="SPORTS", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="SPORTS", TNT Sports 2
@@ -125,12 +125,9 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="SPORTS", TNT Sports 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fightsports.png" group-title="SPORTS",Fight Sports
-http://hls.iill.top/api/Fight-Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="SPORTS",EuroSport 4K 
-https://7pal.short.gy/eusport4k
+
 
 
 
