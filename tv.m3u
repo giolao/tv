@@ -37,7 +37,7 @@ https://7pal.short.gy/ssportsfb
 https://a1xs.vip/2000002
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO", Sky Sport Premier League NZ
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="THỂ THAO", Sky Sports+
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn
@@ -103,6 +103,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
