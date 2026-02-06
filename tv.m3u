@@ -95,6 +95,8 @@ udp://@225.1.4.176:30120
 udp://@225.1.4.217:30120
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 udp://@225.1.4.9:30120
+#EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX
+udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 udp://@225.1.4.183:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
@@ -115,6 +117,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
