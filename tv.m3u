@@ -45,8 +45,8 @@ https://7pal.short.gy/ssportplus
 https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
 https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
-https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="Sports",Canal+ Foot
+https://vietcago.xyz/rtr/3-53-1?ch=canalplusfoot
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nowprime.png" group-title="THỂ THAO", Now Sports Prime
@@ -117,6 +117,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
