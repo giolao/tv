@@ -87,10 +87,8 @@ https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
 https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
-#EXTINF:-1 tvg-id="mekong" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", V Phim Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=9902
-#EXTINF:-1 tvg-id="phimaumy" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_480_270.png", Phim Âu Mỹ
-https://freem3u.xyz/api/live/play.m3u8?vid=9903
+#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SPORTS",FPT Trực tiếp
+udp://@225.1.1.10:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="SPORTS",Sky Sports Football
@@ -139,8 +137,7 @@ https://7pal.short.gy/arenas3
 https://7pal.short.gy/arenas4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORTS",UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
 
 
 
