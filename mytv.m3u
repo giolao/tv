@@ -87,8 +87,10 @@ https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
 #EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
 https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
-#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SPORTS",FPT Trực tiếp
+#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SPORTS",FPT Trực tiếp 1
 udp://@225.1.1.10:30120
+#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SPORTS",FPT Trực tiếp 2
+udp://@225.1.1.12:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="SPORTS",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="SPORTS",Sky Sports Football
@@ -139,6 +141,7 @@ https://7pal.short.gy/arenas3
 https://7pal.short.gy/arenas4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
+
 
 
 
