@@ -117,6 +117,8 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS", Now Sports Premier League 3
 https://7pal.short.gy/nowhkp3
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nowprime.png" group-title="SPORTS", Now Sports Prime
+https://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/beinsports.png" group-title="SPORTS",beIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="SPORTS", TNT Sports 1
@@ -137,6 +139,7 @@ https://7pal.short.gy/arenas3
 https://7pal.short.gy/arenas4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
+
 
 
 
