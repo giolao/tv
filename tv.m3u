@@ -29,7 +29,7 @@ udp://@225.1.4.60:30120
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="THỂ THAO",FPT Trực tiếp 1
 udp://@225.1.1.10:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="SPORTS",FPT Trực tiếp 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/MvdzZwM.png" group-title="THỂ THAO",FPT Trực tiếp 2
 udp://@225.1.1.12:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO", Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
@@ -47,7 +47,7 @@ https://7pal.short.gy/ssportplus
 https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
 https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="Sports",Canal+ Foot
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
 https://vietcago.xyz/rtr/3-53-1?ch=canalplusfoot
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
@@ -119,6 +119,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
