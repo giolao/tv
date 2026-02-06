@@ -47,6 +47,8 @@ https://7pal.short.gy/tennisc
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
 https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nowprime.png" group-title="THỂ THAO", Now Sports Prime
+https://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
@@ -111,6 +113,7 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
+
 
 
 
