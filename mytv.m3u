@@ -108,7 +108,7 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="SPORTS", Sky Sports+
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="SPORTS",Canal+ Foot
-http://14.162.54.211:8889/wed.php?id=13816
+http://14.162.54.211:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="SPORTS",Canal+ Premier League
 http://14.162.54.211:8889/wed.php?id=80204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS", Hub Premier 1
@@ -143,6 +143,7 @@ https://7pal.short.gy/arenas3
 https://7pal.short.gy/arenas4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 https://7pal.short.gy/tennisc
+
 
 
 
