@@ -107,6 +107,10 @@ https://7pal.short.gy/ssportstn
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="SPORTS", Sky Sports+
 https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 4K
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 4K
+https://a1xs.vip/2000016
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="SPORTS",Canal+ Foot
 http://14.162.54.211:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="SPORTS",Canal+ Premier League
@@ -143,6 +147,7 @@ https://7pal.short.gy/arenas3
 https://7pal.short.gy/arenas4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
 
 
 
