@@ -171,6 +171,16 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Event", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Event", Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Event", Event 3
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Event", Event 4
+https://7pal.short.gy/event4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Event", Event 5
+https://7pal.short.gy/event5
 
 
 
