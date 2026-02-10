@@ -81,14 +81,6 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-id="boxmovie1" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxm1.png",Box Movies 1
-https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hwc.png",Hollywood Classics
-https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
-#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/inthebox.png",In The Box
-https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
-#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png",Box Hits
-https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
@@ -171,6 +163,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
