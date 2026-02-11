@@ -37,8 +37,6 @@ https://7pal.short.gy/ssportsf1
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO",Sky Sports Premier League NZ
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League DE
-http://123.24.27.196:8889/wed.php?id=506
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO",Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
@@ -51,12 +49,14 @@ https://7pal.short.gy/tennisc
 http://123.24.27.196:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="THỂ THAO",Canal+ Premier League
 http://123.24.27.196:8889/wed.php?id=80204
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 
+https://7pal.short.gy/espnus
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 udp://@225.1.4.9:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX
@@ -163,6 +163,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
