@@ -35,18 +35,18 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO", Sky Sport Premier League NZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO",Sky Sports Premier League NZ
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League DE
 http://123.24.27.196:8889/wed.php?id=506
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO", Sky Sports Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO",Sky Sports Action
 https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO", Tennis Channel
-http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO",Tennis Channel
+https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
 http://123.24.27.196:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="THỂ THAO",Canal+ Premier League
@@ -163,6 +163,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
