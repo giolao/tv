@@ -39,18 +39,18 @@ https://7pal.short.gy/ssportspl
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO",Sky Sports Action
 https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
-https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO", Sky Sports Mix
 https://a1xs.vip/2000008
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
+https://a1xs.vip/2000012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
-http://123.16.185.85:8889/wed.php?id=80195
+http://14.177.53.152:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="THỂ THAO",Canal+ Premier League
-http://123.16.185.85:8889/wed.php?id=80204
+http://14.177.53.152:8889/wed.php?id=80204
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
@@ -171,6 +171,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
