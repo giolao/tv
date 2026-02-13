@@ -15,7 +15,7 @@ udp://@225.1.4.6:30120
 udp://@225.1.4.201:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv8.png",VTV8
 udp://@225.1.4.7:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="vtv9.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv9.png",VTV9
 udp://@225.1.4.8:30120
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
 udp://@225.1.4.146:30120
@@ -45,7 +45,7 @@ https://a1xs.vip/2000008
 https://a1xs.vip/2000012
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl" group-title="THỂ THAO",Tennis Channel
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
 http://14.177.53.152:8889/wed.php?id=80195
@@ -171,6 +171,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
