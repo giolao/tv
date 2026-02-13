@@ -1,51 +1,51 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv1.png",VTV1
 udp://@225.1.4.1:30120
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv2.png",VTV2
 udp://@225.1.4.2:30120
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv3.png",VTV3
 udp://@225.1.4.3:30120
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv4.png",VTV4
 udp://@225.1.4.4:30120
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv5.png",VTV5
 udp://@225.1.4.5:30120
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV/VTVcab"  tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv6.png",VTV6
 udp://@225.1.4.6:30120
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv7.png",VTV7
 udp://@225.1.4.201:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv8.png",VTV8
 udp://@225.1.4.7:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="vtv9.png",VTV9
 udp://@225.1.4.8:30120
-#EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5HEfwZz.png",NGHỆ AN
+#EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
 udp://@225.1.4.146:30120
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
 udp://@225.1.4.221:30120
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QUỐC PHÒNG TV
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
 udp://@225.1.4.170:30120
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/htvtt.png",HTV THỂ THAO
 udp://@225.1.4.60:30120
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png" group-title="THỂ THAO",Sky Sports Football
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
 https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO",Sky Sports Premier League NZ
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyplnz.png" group-title="THỂ THAO",Sky Sports Premier League NZ
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO",Sky Sports Action
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyact.png" group-title="THỂ THAO",Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO", Sky Sports Mix
 https://a1xs.vip/2000008
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
 https://a1xs.vip/2000012
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO",Sky Sports Tennis
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis
 https://7pal.short.gy/ssportstn 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="THỂ THAO",Tennis Channel
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
 http://14.177.53.152:8889/wed.php?id=80195
@@ -65,11 +65,11 @@ https://7pal.short.gy/tntspts5
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 
 https://7pal.short.gy/espnus
-#EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+#EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/axn.png",AXN
 udp://@225.1.4.9:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX
+#EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cinemax.png",CINEMAX
 udp://@225.1.2.86:30120
-#EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+#EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hbo.png",HBO
 udp://@225.1.4.183:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.4.14:30120
@@ -119,121 +119,58 @@ udp://@225.1.4.87:30120
 udp://@225.1.4.176:30120
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
 udp://@225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 1
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 1
 udp://@225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 2
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 2
 udp://@225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 3
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 3
 udp://@225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 4
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 4
 udp://@225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 5
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 5
 udp://@225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 6
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 6
 udp://@225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 7
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 7
 udp://@225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 8
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 8
 udp://@225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 9
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 9
 udp://@225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 10
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 10
 udp://@225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 11
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 11
 udp://@225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 12
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 12
 udp://@225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 13
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 13
 udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 14
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 14
 udp://@225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 15
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 15
 udp://@225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 16
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 16
 udp://@225.1.1.70:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 17
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 17
 udp://@225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 18
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 18
 udp://@225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 19
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 19
 udp://@225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 20
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 20
 udp://@225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 21
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 21
 udp://@225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 22
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 22
 udp://@225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 23
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 23
 udp://@225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 24
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 24
 udp://@225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 25
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 25
 udp://@225.1.1.100:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Trực tiếp 26
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
