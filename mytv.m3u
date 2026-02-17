@@ -73,12 +73,6 @@ udp://@225.1.4.9:30120
 udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hbo.png",HBO
 udp://@225.1.4.183:30120
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.4.14:30120
 #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
@@ -179,6 +173,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
