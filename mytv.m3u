@@ -35,8 +35,6 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyplnz.png" group-title="THỂ THAO",Sky Sports Premier League NZ
-https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyact.png" group-title="THỂ THAO",Sky Sports Action
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO", Sky Sports Mix
@@ -169,6 +167,7 @@ udp://@225.1.1.100:30120
 udp://@225.1.1.101:30120
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg", Tử Chiến Trên Không
 https://vip.opstream90.com/20260131/23537_324e9b29/index.m3u8
+
 
 
 
