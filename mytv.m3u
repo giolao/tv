@@ -49,10 +49,6 @@ https://7pal.short.gy/ssportstn
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
 https://hls.168.us.kg/u/630/master.m3u8
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
-http://14.177.53.152:8889/wed.php?id=80195
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalpre.png" group-title="THỂ THAO",Canal+ Premier League
-http://14.177.53.152:8889/wed.php?id=80204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://a1xs.vip/1100041
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
@@ -63,20 +59,8 @@ https://a1xs.vip/1100001
 https://a1xs.vip/1100002
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="THỂ THAO", TNT Sports 3
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="THỂ THAO", TNT Sports 4
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="THỂ THAO", TNT Sports 5
-https://7pal.short.gy/tntspts5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 
-https://7pal.short.gy/espnus
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/axn.png",AXN
 udp://@225.1.4.9:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cinemax.png",CINEMAX
@@ -185,6 +169,7 @@ udp://@225.1.1.100:30120
 udp://@225.1.1.101:30120
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg", Tử Chiến Trên Không
 https://rumble.com/hls-vod/72x1ns/playlist.m3u8
+
 
 
 
