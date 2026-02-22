@@ -46,9 +46,9 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
-https://a1xs.vip/1100041
+http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
-https://a1xs.vip/1100042
+http://lunar.pm:8080/Mrdon/4782314540/110289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
 https://a1xs.vip/1100001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="THỂ THAO", Now Sports Premier League 2
@@ -167,6 +167,7 @@ udp://@225.1.1.100:30120
 udp://@225.1.1.101:30120
 #EXTINF:-1 group-title="PHIM" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg", Tử Chiến Trên Không
 https://vip.opstream90.com/20260131/23537_324e9b29/index.m3u8
+
 
 
 
