@@ -28,31 +28,29 @@ udp://@225.1.4.60:30120
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
-https://7pal.short.gy/SkSpMainE
+https://a1xs.vip/2000001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png" group-title="THỂ THAO",Sky Sports Football
-https://7pal.short.gy/ssportsfb
+https://a1xs.vip/2000003
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
-https://7pal.short.gy/ssportsf1
+https://a1xs.vip/2000005
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
+https://a1xs.vip/2000002
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyact.png" group-title="THỂ THAO",Sky Sports Action
-https://7pal.short.gy/ssportsat
+https://a1xs.vip/2000011
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO", Sky Sports Mix
 https://a1xs.vip/2000008
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO",Sky Sports+
 https://a1xs.vip/2000012
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis
-https://7pal.short.gy/ssportstn 
+https://a1xs.vip/2000013
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 http://lunar.pm:8080/Mrdon/4782314540/110289
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
-https://a1xs.vip/1100001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="THỂ THAO", Now Sports Premier League 2
-https://a1xs.vip/1100002
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
+https://toiyeuvietnam.dpdns.org/OnliveTV/canalplusfoot/Free.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
@@ -165,6 +163,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
