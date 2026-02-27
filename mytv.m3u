@@ -95,20 +95,6 @@ udp://@225.1.4.11:30120
 udp://@225.1.4.63:30120
 #EXTINF:0 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT
 udp://@225.1.4.62:30120
-#EXTINF:0 tvg-id="hanoi1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/mwCTDMj.png",HÀ NỘI
-udp://@225.1.4.203:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/Logo/DongNaiTV1.png",ĐỒNG NAI
-udp://@225.1.4.124:30120
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 
-udp://@225.1.4.202:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2
-udp://@225.1.4.87:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3
-udp://@225.1.4.176:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
-udp://@225.1.4.217:30120
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 1
-udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 2
 udp://@225.1.1.12:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 3
@@ -159,6 +145,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
