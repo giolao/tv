@@ -19,7 +19,7 @@ udp://@225.1.4.7:30120
 udp://@225.1.4.8:30120
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
 udp://@225.1.4.146:30120
-#EXTINF:-1  tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvcab1.png",ON Vie Giải Trí
+#EXTINF:0  tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvcab1.png",ON Vie Giải Trí
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
 udp://@225.1.4.221:30120
@@ -29,35 +29,35 @@ udp://@225.1.4.170:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv1.png",SCTV1
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv1.png",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png" group-title="THỂ THAO",Sky Sports Football
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png" group-title="THỂ THAO",Sky Sports Football
 https://a1xs.vip/2000003
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
 https://a1xs.vip/2000005
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
 https://a1xs.vip/2000002
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylaliga.png" group-title="THỂ THAO",Sky Sports LaLiga
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylaliga.png" group-title="THỂ THAO",Sky Sports LaLiga
 http://45.90.106.85:9090/281171_.m3u8 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skybun.png" group-title="THỂ THAO",Sky Sports Bundesliga
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skybun.png" group-title="THỂ THAO",Sky Sports Bundesliga
 http://104.194.8.54:9090/281188_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 http://lunar.pm:8080/Mrdon/4782314540/110289
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
+#EXTINF:0 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
 http://14.248.61.66:8889/wed.php?id=80195
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
+#EXTINF:0 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
 https://hls.168.us.kg/u/630/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/axn.png",AXN
 udp://@225.1.4.9:30120
@@ -151,33 +151,3 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
