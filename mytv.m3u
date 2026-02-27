@@ -24,7 +24,7 @@ udp://@225.1.4.221:30120
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
 udp://@225.1.4.170:30120
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/htvtt.png",HTV THỂ THAO
-udp://@225.1.4.60:30120
+udp://@225.1.2.175:30120
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
@@ -80,21 +80,21 @@ udp://@225.1.4.13:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/Logo/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
-udp://@225.1.4.55:30120
+udp://@225.1.1.180:30120
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
-udp://@225.1.4.56:30120
+udp://@225.1.1.193:30120
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-udp://@225.1.4.57:30120
+udp://@225.1.1.178:30120
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4
-udp://@225.1.4.58:30120
+udp://@225.1.1.177:30120
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
-udp://@225.1.4.59:30120
+udp://@225.1.1.192:30120
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
-udp://@225.1.4.11:30120
+udp://@225.1.1.190:30120
 #EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://vietsimpletv.ucoz.com/Logo/HTVC_Phim.png",HTVC PHIM
-udp://@225.1.4.63:30120
+udp://@225.1.1.184:30120
 #EXTINF:0 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT
-udp://@225.1.4.62:30120
+udp://@225.1.1.186:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 1
 udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 2
@@ -147,6 +147,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
