@@ -39,8 +39,6 @@ https://a1xs.vip/2000002
 http://45.90.106.85:9090/281171_.m3u8 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skybun.png" group-title="THỂ THAO",Sky Sports Bundesliga
 http://104.194.8.54:9090/281188_.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
-https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
@@ -49,6 +47,8 @@ http://lunar.pm:8080/Mrdon/4782314540/110289
 http://14.248.61.66:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
+https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
 https://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
@@ -147,6 +147,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
