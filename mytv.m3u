@@ -60,7 +60,7 @@ udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hbo.png",HBO
 udp://@225.1.4.183:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
-udp://@225.1.4.14:30120
+udp://@225.1.1.139:30120
 #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
 udp://@225.1.4.209:30120
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA
@@ -68,9 +68,9 @@ udp://@225.1.4.25:30120
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/2JR5vSZ.png",DISCOVERY CHANNEL
 udp://@225.1.4.24:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC EARTH
-udp://@225.1.4.21:30120
+udp://@225.1.2.24:30120
 #EXTINF:0 tvg-id="bbclifestyle" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC LIFESTYLE
-udp://@225.1.4.23:30120
+udp://@225.1.2.52:30120
 #EXTINF:0 tvg-id="bbcworldnews" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS
 udp://@225.1.4.22:30120
 #EXTINF:0 tvg-id="cnn" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
@@ -147,6 +147,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
