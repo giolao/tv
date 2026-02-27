@@ -46,7 +46,7 @@ http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 http://lunar.pm:8080/Mrdon/4782314540/110289
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
-https://toiyeuvietnam.dpdns.org/OnliveTV/canalplusfoot/Free.m3u8
+http://14.248.61.66:8889/wed.php?id=80195
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
