@@ -55,6 +55,10 @@ http://123.24.24.178:8889/wed.php?id=80195
 https://a1xs.vip/1100032
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports", TNT Sports 1
+http://199.127.63.143:9090/306168_.m3u8 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports", TNT Sports 2
+http://199.127.63.143:9090/306169_.m3u8 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
 https://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
@@ -151,5 +155,6 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
