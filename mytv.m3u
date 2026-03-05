@@ -50,7 +50,7 @@ https://a1xs.vip/1100041
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 https://a1xs.vip/1100042
 #EXTINF:0 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
-http://14.177.50.86:8889/wed.php?id=80195
+http://123.24.24.178:8889/wed.php?id=80195
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
@@ -151,4 +151,5 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
