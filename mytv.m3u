@@ -41,24 +41,26 @@ https://a1xs.vip/2000003
 https://a1xs.vip/2000005
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
 https://a1xs.vip/700008
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylaliga.png" group-title="THỂ THAO",Sky Sports LaLiga
-http://45.90.106.85:9090/281171_.m3u8 
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skybun.png" group-title="THỂ THAO",Sky Sports Bundesliga
-http://104.194.8.54:9090/281188_.m3u8
+https://a1xs.vip/120002
 #EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://a1xs.vip/1100041
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 https://a1xs.vip/1100042
-#EXTINF:0 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/canalplus.png" group-title="THỂ THAO",Canal+ Foot
-http://123.24.24.178:8889/wed.php?id=80195
+#EXTINF:0 tvg-logo="https://i.ibb.co/Nd49Cwvc/Premier-Sports-1.png" group-title="THỂ THAO",Premier Sports 1
+https://a1xs.vip/8000021
+#EXTINF:0 tvg-logo="https://i.ibb.co/5hfMsrXv/Premier-Sports-2.png" group-title="THỂ THAO",Premier Sports 2
+https://a1xs.vip/8000022
+#EXTINF:0 tvg-logo="https://i.ibb.co/yc68M4mG/Sports-Net-World.png" group-title="THỂ THAO",Sportsnet World
+https://a1xs.vip/6000013
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
 https://a1xs.vip/1100032
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
-http://199.127.63.143:9090/306168_.m3u8 
+https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
-http://199.127.63.143:9090/306169_.m3u8 
+https://a1xs.vip/2000022
 #EXTINF:0 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
 https://hls.168.us.kg/u/630/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
@@ -155,6 +157,7 @@ udp://@225.1.1.97:30120
 udp://@225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fpt.png",FPT Trực tiếp 26
 udp://@225.1.1.101:30120
+
 
 
 
