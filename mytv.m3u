@@ -40,29 +40,27 @@ https://a1xs.vip/2000003
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
 https://a1xs.vip/2000005
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
-https://a1xs.vip/700008
+https://a1xs.vip/2000002
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skybun.png" group-title="THỂ THAO",Sky Sports Bundesliga
 https://a1xs.vip/120002
 #EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
 https://a1xs.vip/1100041
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
 https://a1xs.vip/1100042
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
+https://a1xs.vip/1100032
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nd49Cwvc/Premier-Sports-1.png" group-title="THỂ THAO",Premier Sports 1
 https://a1xs.vip/8000021
 #EXTINF:0 tvg-logo="https://i.ibb.co/5hfMsrXv/Premier-Sports-2.png" group-title="THỂ THAO",Premier Sports 2
 https://a1xs.vip/8000022
 #EXTINF:0 tvg-logo="https://i.ibb.co/yc68M4mG/Sports-Net-World.png" group-title="THỂ THAO",Sportsnet World
 https://a1xs.vip/6000013
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrogrand.png" group-title="THỂ THAO", Astro Grandstand
-https://a1xs.vip/1100032
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
-https://7pal.short.gy/tennisc
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://a1xs.vip/2000022
-#EXTINF:0 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Prime
-https://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
+https://7pal.short.gy/tennisc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/axn.png",AXN
