@@ -59,6 +59,10 @@ https://a1xs.vip/6000013
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 https://a1xs.vip/2000022
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5plus.png" group-title="THỂ THAO",CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctvfootball.png" group-title="THỂ THAO",CCTV Football
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
 https://7pal.short.gy/tennisc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
