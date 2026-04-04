@@ -9,14 +9,14 @@ udp://@225.1.4.3:30120
 udp://@225.1.4.4:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv5.png",VTV5
 udp://@225.1.4.5:30120
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv6.png",VTV6
-udp://@225.1.4.6:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv7.png",VTV7
 udp://@225.1.4.201:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv8.png",VTV8
 udp://@225.1.4.7:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv9.png",VTV9
 udp://@225.1.4.8:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv10.png",VTV10
+udp://@225.1.4.6:30120
 #EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
 udp://@225.1.4.146:30120
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV4
@@ -33,26 +33,24 @@ udp://@225.1.4.170:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymain.png" group-title="THỂ THAO",Sky Sports Main Event
-https://7pal.short.gy/SkSpMainE
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png" group-title="THỂ THAO",Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png" group-title="THỂ THAO",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skypl.png" group-title="THỂ THAO",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO", Hub Premier 1
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp1.png" group-title="THỂ THAO",Hub Sports 1
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20545 
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp2.png" group-title="THỂ THAO",Hub Sports 2
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20547 
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp3.png" group-title="THỂ THAO",Hub Sports 3
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20548
+#EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO",Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
-#EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO", Hub Premier 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
 http://lunar.pm:8080/Mrdon/4782314540/110289
-#EXTINF:0 tvg-logo="https://i.ibb.co/Nd49Cwvc/Premier-Sports-1.png" group-title="THỂ THAO",Premier Sports 1
-https://7pal.short.gy/prsport1
-#EXTINF:0 tvg-logo="https://i.ibb.co/5hfMsrXv/Premier-Sports-2.png" group-title="THỂ THAO",Premier Sports 2
-https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20392 
+#EXTINF:0 tvg-logo="https://i.ibb.co/Nd49Cwvc/Premier-Sports-1.png" group-title="THỂ THAO",Premier Sports
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20438
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
-https://7pal.short.gy/tntspts1
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20446
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
-https://7pal.short.gy/tntspts2
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20447 
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5plus.png" group-title="THỂ THAO",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctvfootball.png" group-title="THỂ THAO",CCTV Football
