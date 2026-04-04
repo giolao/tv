@@ -43,8 +43,12 @@ http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20548
 http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
 http://lunar.pm:8080/Mrdon/4782314540/110289
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO", Now Sports Premier League 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO",Now Sports Premier League 1
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20392 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astroarena.png" group-title="THỂ THAO",Astro Arena
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20443 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrofootball.png" group-title="THỂ THAO",Astro Football
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20433 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Nd49Cwvc/Premier-Sports-1.png" group-title="THỂ THAO",Premier Sports
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20438
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
