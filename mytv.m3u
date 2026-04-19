@@ -50,15 +50,13 @@ udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO",Hub Premier 1
-http://lunar.pm:8080/Mrdon/4782314540/110288
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
-http://lunar.pm:8080/Mrdon/4782314540/110289
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp1.png" group-title="THỂ THAO",Hub Sports 1
 https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp2.png" group-title="THỂ THAO",Hub Sports 2
 https://hls.iill.top/api/Hub-Sports-2/index.m3u8
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubsp3.png" group-title="THỂ THAO",Hub Sports 3
-https://hls.iill.top/api/Hub-Sports-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/beinsports.png" group-title="THỂ THAO",beIN Sports 2
