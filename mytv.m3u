@@ -101,4 +101,5 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
-
+#EXTINF:-1 tvg-id="vtvcab-16-hd" group-title="VTV Cab" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-16-hd/KenhCoBan.png",VTVcab 16 - On Football HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-16-hd/KenhCoBan.m3u8
