@@ -58,9 +58,9 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO",Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
-http://lunar.pm:8080/Mrdon/4782314540/110289
+http://nor1live.win:80/livehttpplay?channel_id=23069
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5plus.png" group-title="THỂ THAO",CCTV5+
-http://69.30.246.194/live/cctv5p.m3u8
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctvfootball.png" group-title="THỂ THAO",CCTV Football
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",Tennis Channel
