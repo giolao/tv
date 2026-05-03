@@ -55,6 +55,8 @@ udp://@225.1.4.170:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports",Sky Sports Premier League
+http://123.24.81.216:8889/wed.php?id=527
 #EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO",Hub Premier 1
 http://lunar.pm:8080/Mrdon/4782314540/110288
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
