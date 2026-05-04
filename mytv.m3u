@@ -55,12 +55,6 @@ udp://@225.1.4.170:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports",Sky Sports Premier League
-http://123.24.81.216:8889/wed.php?id=506
-#EXTINF:0 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO",Hub Premier 1
-http://lunar.pm:8080/Mrdon/4782314540/110288
-#EXTINF:0 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO",Hub Premier 2
-http://nor1live.win:80/livehttpplay?channel_id=23069
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5plus.png" group-title="THỂ THAO",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctvfootball.png" group-title="THỂ THAO",CCTV Football
@@ -93,9 +87,3 @@ udp://@225.1.4.22:30120
 udp://@225.1.4.17:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-id="MNCSports.id" group-title="ShareExt@Relax" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstar(ott.navigator&tivimate)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
