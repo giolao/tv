@@ -55,11 +55,11 @@ udp://@225.1.4.170:30120
 udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League
 http://123.24.81.216:8889/wed.php?id=527
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports", TNT Sports 1
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO", TNT Sports 1
 http://123.24.81.216:8889/wed.php?id=530
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO", TNT Sports 2
 http://123.24.81.216:8889/wed.php?id=531 
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5plus.png" group-title="THỂ THAO",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
