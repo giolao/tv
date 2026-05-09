@@ -103,18 +103,18 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 http://nor1live.win/livehttpplay?channel_id=23129
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="THỂ THAO",UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="QUỐC TẾ" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxm1.png", Box Movie 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/boxhit.png", Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="QUỐC TẾ" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hwc.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
