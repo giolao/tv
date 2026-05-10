@@ -267,6 +267,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT14/manifest.mpd
 
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports",Sky Sports Main Event
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/PkEGPzf.png", Eleven Sports 2
