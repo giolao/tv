@@ -309,6 +309,12 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT14/manifest.mpd
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="ACE SPORTS",Sky Sports Main Event
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="SportsAce" tvg-logo="https://i.imgur.com/qLKnQXL.png",Sky Sports Arena
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="SportsAce" tvg-logo="https://i.imgur.com/qLKnQXL.png", Sky Sports Football
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/DM309yn.png", Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1
