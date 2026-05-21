@@ -305,19 +305,19 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png", Sky Sports Football
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1 4K
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1 4K 🇵🇱
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/PkEGPzf.png", Eleven Sports 2
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/PkEGPzf.png", Eleven Sports 2 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/Z1dWgv5.png", Eleven Sports 3
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/Z1dWgv5.png", Eleven Sports 3 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/WNEsP9b.png", Eleven Sports 4
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/WNEsP9b.png", Eleven Sports 4 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/rI0QZ46.png", Eleven Sports 5
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/rI0QZ46.png", Eleven Sports 5 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇦🇺
@@ -370,20 +370,20 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux5
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/hbobox.png",HBO Boxing
+#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/hbobox.png",HBO Boxing 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL
+#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
