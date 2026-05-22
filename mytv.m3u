@@ -309,16 +309,18 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven Sports 1 4K 🇵🇱
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 1 🇧🇪
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", DAZN 1 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 2 🇧🇪
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/PkEGPzf.png", DAZN 2 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 3 🇧🇪
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/Z1dWgv5.png", DAZN 3 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 4 🇧🇪
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/WNEsP9b.png", DAZN 4 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 5 🇧🇪
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/rI0QZ46.png", DAZN 5 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/DM309yn.png", DAZN 6 🇧🇪
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇦🇺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
