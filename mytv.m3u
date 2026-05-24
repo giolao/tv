@@ -398,13 +398,13 @@ http://46.151.196.223:14425
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14554
 
-#EXTINF:-1  group-title="THỂ THAO tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png"", SKY SPORTS LIVE 1
+#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png"", SKY SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
-#EXTINF:-1  group-title="THỂ THAO tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png"", SKY SPORTS LIVE 2
+#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png"", SKY SPORTS LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
