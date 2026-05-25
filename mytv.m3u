@@ -393,18 +393,16 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://imgur.com/GPYy3Hu.png",DAZN 1 🇧🇷
-http://46.151.196.223:14425
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14554
 
-#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", SKY SPORTS LIVE 1
+#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", SKY SPORTS LIVE 1 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
-#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", SKY SPORTS LIVE 2
+#EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", SKY SPORTS LIVE 2 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
