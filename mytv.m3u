@@ -409,6 +409,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14554
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/mutv.png" group-title="THỂ THAO",MUTV
+https://get.perfecttv.net/mutv.mpd
 
 #EXTINF:-1  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/skylive.png", SKY SPORTS LIVE 1 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
