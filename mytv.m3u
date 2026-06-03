@@ -348,8 +348,8 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7338/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7342/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO",Sky Sports MotoGP 🇮🇹
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nbcsn.png" group-title="THỂ THAO", NBCSN 🇺🇸
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7327/index.m3u8
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nbcsn.png" group-title="THỂ THAO", BÓNG CHUYỀN
+https://vietcago.xyz/rtr/3-39-1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
