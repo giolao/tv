@@ -76,8 +76,8 @@ https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv1.png",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
-#EXTINF:0 tvg-id="sctv22hd" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv22.png" group-title="SCTV",SCTV22
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN
+https://vietcago.xyz/rtr/3-39-1
 #EXTINF:-1 group-title="SCTV"tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctvpth.png",SCTV Phim Tổng Hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/htvtt.png",HTV THỂ THAO
