@@ -351,6 +351,18 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nbcsn.png" group-title="THỂ THAO", BÓNG CHUYỀN
 https://vietcago.xyz/rtr/3-39-1
 
+
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 
+http://178.253.194.79:10001
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium
+http://178.253.194.79:10004
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium
+http://178.253.194.79:10005
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a4p.png" group-title="THỂ THAO",Arena 4 Premium
+http://178.253.194.79:10016 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium
+http://178.253.194.79:10017
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
