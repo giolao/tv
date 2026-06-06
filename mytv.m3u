@@ -520,25 +520,3 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/12160/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31716/index.m3u8
 
 
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8G1nYeEaXoR1yoBfVx6paYswmZj8WHBZ2sw&s",SPORTTV.1_FIFA CLUB WORLDCUP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8G1nYeEaXoR1yoBfVx6paYswmZj8WHBZ2sw&s",SPORTTV.2_FIFA CLUB WORLDCUP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Football.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/footballtv.jpg" group-title="ShareExt@Relax",FOOTBALL TV (Cubmu) 
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="ShareExt@Relax",MAX SPORT(IndIhome) 
-https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
