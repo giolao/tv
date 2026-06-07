@@ -366,16 +366,39 @@ http://85.11.144.9:3341/7
 #https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 http://178.253.194.79:10001
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
 http://178.253.194.79:10004
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium 🇭🇷
 http://178.253.194.79:10005
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a4p.png" group-title="THỂ THAO",Arena 4 Premium
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a4p.png" group-title="THỂ THAO",Arena 4 Premium 🇭🇷
 http://178.253.194.79:10016 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium 🇭🇷
 http://178.253.194.79:10017
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
+http://46.151.196.223:14554
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 2 🇧🇷
+http://46.151.196.223:14553
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 3 🇧🇷
+http://46.151.196.223:14447
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 4 🇧🇷
+http://46.151.196.223:14448
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 5 🇧🇷
+http://46.151.196.223:14458
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 6 🇧🇷
+http://46.151.196.223:14462
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 1 🇧🇷
+http://46.151.196.223:14425
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 2 🇧🇷
+http://46.151.196.223:14421
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 3 🇧🇷
+http://46.151.196.223:14422
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 4 🇧🇷
+http://46.151.196.223:14423
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 5 🇧🇷
+http://46.151.196.223:14424
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -462,7 +485,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
 #KODIPROP:inputstream=inputstream.adaptive
@@ -485,8 +508,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
-http://46.151.196.223:14554
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/mutv.png" group-title="THỂ THAO",MUTV
 https://get.perfecttv.net/mutv.mpd
 
@@ -502,21 +523,5 @@ https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/javhd.png" group-title="18+",JAPANHDV
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6225/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/playboy.png" group-title="18+",PLAYBOY
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/527/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/playboy.png" group-title="18+",PLAYBOY+
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6242/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/playboy.png" group-title="18+",PLAYBOY LA
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6280/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/frenchlover.png" group-title="18+",French Lover
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/12124/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/femjoy.jpg" group-title="18+",FemJoy
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6212/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/metart.png" group-title="18+",MetArt
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/12160/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nuart.png" group-title="18+",NuArt
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31716/index.m3u8
 
 
