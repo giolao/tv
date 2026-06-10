@@ -334,11 +334,11 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇫🇷
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇫🇷
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇫🇷
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://imgur.com/GPYy3Hu.png", DAZN 1 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
@@ -552,10 +552,3 @@ https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="ShareExt@Relax",SOCCER CHANNEL_ott.navigator
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
