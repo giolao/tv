@@ -405,12 +405,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇮🇩
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇮🇩
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇮🇩
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇹🇭
+https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇹🇭
+https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇹🇭
+https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv.png",SPOTV 🇮🇩
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv2.png",SPOTV2 🇮🇩
