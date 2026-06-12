@@ -419,32 +419,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
-#EXTINF:-1 tvg-id="SPOTV" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv.png",SPOTV 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919396&extension=ts
-#EXTINF:-1 tvg-id="SPOTV2" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv2.png",SPOTV2 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919395&extension=ts
-
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 http://178.253.194.79:10001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
