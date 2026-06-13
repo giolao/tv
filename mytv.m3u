@@ -399,7 +399,7 @@ https://vietsimpletv.ucoz.com/rtr/3-53-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/11sp1.png" group-title="THỂ THAO",Eleven Sports 1 ⁴ᵏ 🇵🇱
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/11sp1.png" group-title="THỂ THAO",Eleven Sports 1⁴ᵏ 🇵🇱
 http://91.146.94.234:10001/play/a05c
 
 
