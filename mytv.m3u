@@ -421,6 +421,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5.png" group-title="THỂ THAO",CCTV5 🇨🇳
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5p.png" group-title="THỂ THAO",CCTV5+ 🇨🇳
+http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 http://178.253.194.79:10001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
