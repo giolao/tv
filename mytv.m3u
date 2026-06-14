@@ -380,12 +380,12 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
-#https://vietsimpletv.ucoz.com/rtr/3-49-1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7335/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
-#https://vietsimpletv.ucoz.com/rtr/3-53-1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7336/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
@@ -421,12 +421,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5.png" group-title="THỂ THAO",CCTV5 🇨🇳
-#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git   
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5p.png" group-title="THỂ THAO",CCTV5+ 🇨🇳
-#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git   
-http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 http://178.253.194.79:10001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
@@ -483,7 +477,8 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
+http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -492,7 +487,8 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
 #http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -501,7 +497,8 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
 #https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6564/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -510,7 +507,8 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
 #http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -576,16 +574,18 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/mutv.png" group-title="THỂ THAO",MUTV
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fs1.png" group-title="THỂ THAO",FoxSports 1 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv.png",SPOTV 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/fs2.png" group-title="THỂ THAO",FoxSports 2 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv2.png",SPOTV2 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 
