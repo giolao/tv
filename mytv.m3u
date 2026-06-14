@@ -422,8 +422,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5.png" group-title="THỂ THAO",CCTV5 🇨🇳
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cctv5p.png" group-title="THỂ THAO",CCTV5+ 🇨🇳
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 http://178.253.194.79:10001
