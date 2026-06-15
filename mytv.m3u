@@ -525,8 +525,8 @@ http://46.151.196.223:14458
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 6 🇧🇷
 http://46.151.196.223:14462
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 1 🇧🇷
-https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
-#http://46.151.196.223:14425
+#https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
+http://46.151.196.223:14425
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 2 🇧🇷
 http://46.151.196.223:14421
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn.png", DAZN 3 🇧🇷
