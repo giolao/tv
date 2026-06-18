@@ -426,45 +426,41 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 #https://1nyaler.streamhostingcdn.top/stream/122/index.m3u8
 #http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
-#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
+#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
-#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6564/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6564/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
-#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-#https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+#http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
+#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/11sp1.png" group-title="THỂ THAO",Eleven Sports 1⁴ᵏ 🇵🇱
 http://91.146.94.234:10001/play/a05c
