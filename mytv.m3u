@@ -124,27 +124,27 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:0 tvg-id="axnhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/axn.png",AXN
-udp://@225.1.4.9:30120
+udp://@225.1.2.225:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/cinemax.png",CINEMAX
 udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hbo.png",HBO
-udp://@225.1.4.183:30120
+udp://@225.1.1.112:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.1.139:30120
 #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
-udp://@225.1.4.209:30120
+udp://@225.1.1.231:30120
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA
-udp://@225.1.4.25:30120
+udp://@225.1.2.223:30120
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/2JR5vSZ.png",DISCOVERY CHANNEL
-udp://@225.1.4.24:30120
+udp://@225.1.1.238:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC EARTH
 udp://@225.1.2.24:30120
 #EXTINF:0 tvg-id="bbclifestyle" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC LIFESTYLE
 udp://@225.1.2.52:30120
 #EXTINF:0 tvg-id="bbcworldnews" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS
-udp://@225.1.4.22:30120
+udp://@225.1.2.74:30120
 #EXTINF:0 tvg-id="cnn" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
-udp://@225.1.4.17:30120
+udp://@225.1.1.242:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
 
