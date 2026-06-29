@@ -4,9 +4,9 @@ udp://@225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv2.png",VTV2
 udp://@225.1.2.13:30120
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv3.png",VTV3
-udp://@225.1.4.3:30120
+udp://@225.1.2.247:30120
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv4.png",VTV4
-udp://@225.1.4.4:30120
+udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv5.png",VTV5
 udp://@225.1.1.131:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv6.png",VTV6
@@ -20,11 +20,11 @@ udp://@225.1.1.128:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv10.png",VTV10
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="antvhd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
-udp://@225.1.4.221:30120
+udp://@225.1.2.169:30120
 #EXTINF:0 tvg-id="qpvnhd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
-udp://@225.1.4.170:30120
+udp://@225.1.2.217:30120
 #EXTINF:0 tvg-id="nghean" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
-udp://@225.1.4.146:30120
+udp://@225.1.2.183:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png",SCTV9
@@ -384,23 +384,23 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7335/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
-https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
 #http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
-#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
-https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
-#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7336/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7336/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
-https://1nyaler.streamhostingcdn.top/stream/78/index.m3u8
-#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7338/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/78/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7338/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7342/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyao1.png" group-title="THỂ THAO",Sky Sport Austria 1 🇦🇹
-https://1nyaler.streamhostingcdn.top/stream/75/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/75/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sport Select 🇳🇿
-https://1nyaler.streamhostingcdn.top/stream/126/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/126/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyuno.png" group-title="THỂ THAO",Sky Sport Uno 🇮🇹
-https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO",Sky Sports MotoGP 🇮🇹
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylaliga.png" group-title="THỂ THAO",Sky Sports Laliga 🇲🇽
