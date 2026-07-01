@@ -350,6 +350,8 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png", Sky Sports Football 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png", Sky Sports F1 🇩🇪
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
@@ -364,6 +366,10 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 Bar 🇩🇪
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 Bar 🇩🇪
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇧🇪
@@ -376,6 +382,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn6.png", DAZN 6 🇧🇪
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/daznf1.png", DAZN F1 🇪🇸
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
