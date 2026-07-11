@@ -148,89 +148,6 @@ udp://@225.1.1.242:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
 
-#EXTINF:-1 tvg-id="tv360plus1" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus1.png", TV360+1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2554&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus2" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=1&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus3" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus3.png", TV360+3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=148&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus4" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2458&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus5" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9867&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus6" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9868&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus7" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9869&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus8" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus8.png", TV360+8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9870&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9887&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9957&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9958&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus12" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10001&token=NinoEra36
-
-#EXTINF:-1 tvg-id="tv360plus13" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+13
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10022&token=NinoEra36
-
-
 
 #EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -363,52 +280,30 @@ http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
-#http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
-#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7335/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
-#http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
-#https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7336/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2183
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
-#https://1nyaler.streamhostingcdn.top/stream/78/index.m3u8
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7338/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7342/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-#https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19052/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19053/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -429,22 +324,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇦🇺
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/11sp1.png" group-title="THỂ THAO",Eleven Sports 1⁴ᵏ 🇵🇱
-http://91.146.94.234:10001/play/a05c
 
-#EXTINF:-1 tvg-id="spotv1"  group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv.png",SPOTV 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-#EXTINF:-1 tvg-id="spotv2" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/spotv2.png",SPOTV2 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN
 https://vietcago.xyz/rtr/3-39-1
