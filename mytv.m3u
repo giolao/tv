@@ -153,75 +153,84 @@ udp://@225.1.2.231:30120
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2554&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2554&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus2" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=1&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=1&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus3" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus3.png", TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=148&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=148&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus4" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2458&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=2458&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus5" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9867&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9867&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus6" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9868&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9868&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus7" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9869&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9869&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus8" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus8.png", TV360+8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9870&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9870&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9887&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9887&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9957&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9957&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9958&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=9958&token=NinoEra36
 
 #EXTINF:-1 tvg-id="tv360plus12" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10001&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10001&token=NinoEra36
+
+#EXTINF:-1 tvg-id="tv360plus13" group-title="TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=10022&token=NinoEra36
+
+
 
 #EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -358,7 +367,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7335/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
-#https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
 #http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
