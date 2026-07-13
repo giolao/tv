@@ -197,10 +197,12 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
 #http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
+#http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/335
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
 #http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
+#http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
 #http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/379829
@@ -217,8 +219,10 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
+#http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
+#http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
