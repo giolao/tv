@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml, https://raw.githubusercontent.com/Bornze/EPG-testing/main/merged.xml.gz" m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv1.png",VTV1
 udp://@225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv2.png",VTV2
@@ -196,18 +196,24 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
-http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/379829
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
+#http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/379829
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2183
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2179
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
