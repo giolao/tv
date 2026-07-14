@@ -383,3 +383,95 @@ http://91.146.94.234:10001/play/a05g
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 1
+udp://@225.1.1.10:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 2
+udp://@225.1.1.12:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 3
+udp://@225.1.1.15:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 4
+udp://@225.1.1.27:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 5
+udp://@225.1.1.28:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 6
+udp://@225.1.1.30:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 7
+udp://@225.1.1.31:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 8
+udp://@225.1.1.32:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 9
+udp://@225.1.1.33:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 10
+udp://@225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 11
+udp://@225.1.1.35:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 12
+udp://@225.1.1.37:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 13
+udp://@225.1.1.38:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 14
+udp://@225.1.1.48:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 15
+udp://@225.1.1.49:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 16
+udp://@225.1.1.50:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 17
+udp://@225.1.1.51:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 18
+udp://@225.1.1.52:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 19
+udp://@225.1.1.53:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 20
+udp://@225.1.1.54:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 21
+udp://@225.1.1.55:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 22
+udp://@225.1.1.56:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 23
+udp://@225.1.1.68:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 24
+udp://@225.1.1.69:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 25
+udp://@225.1.1.70:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 26
+udp://@225.1.1.71:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 27
+udp://@225.1.1.72:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 28
+udp://@225.1.1.78:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 29
+udp://@225.1.1.79:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 30
+udp://@225.1.1.80:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 31
+udp://@225.1.1.81:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 32
+udp://@225.1.1.82:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 33
+udp://@225.1.1.83:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 34
+udp://@225.1.1.84:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 35
+udp://@225.1.1.85:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 36
+udp://@225.1.1.86:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 37
+udp://@225.1.1.88:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 38
+udp://@225.1.1.92:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 39
+udp://@225.1.1.93:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 40
+udp://@225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 41
+udp://@225.1.1.95:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 42
+udp://@225.1.1.96:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 43
+udp://@225.1.1.97:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 44
+udp://@225.1.1.100:30120
+#EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 45
+udp://@225.1.1.101:30120
