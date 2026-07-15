@@ -271,6 +271,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium 🇭🇷
 #http://178.253.194.79:10017
 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/polsatspp1.png" group-title="THỂ THAO",Polsat Sport Premium 1 🇵🇱
+http://91.146.94.234:10001/play/a05a
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/polsatspp2.png" group-title="THỂ THAO",Polsat Sport Premium 2 🇵🇱
+http://91.146.94.234:10001/play/a05b
+
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14495
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn2.png" group-title="THỂ THAO", ESPN 2 🇧🇷
@@ -352,7 +357,7 @@ https://get.perfecttv.net/mutv.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
 http://91.146.94.234:10001/play/a05h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -361,7 +366,7 @@ http://91.146.94.234:10001/play/a05h
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #http://151.80.18.177:86/Eurosport_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
 http://91.146.94.234:10001/play/a05g
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
