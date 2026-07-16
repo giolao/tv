@@ -272,9 +272,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #http://178.253.194.79:10017
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/polsatspp1.png" group-title="THỂ THAO",Polsat Sport Premium 1 🇵🇱
-http://91.146.94.234:10001/play/a05a
+#http://91.146.94.234:10001/play/a05a
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/polsatspp2.png" group-title="THỂ THAO",Polsat Sport Premium 2 🇵🇱
-http://91.146.94.234:10001/play/a05b
+#http://91.146.94.234:10001/play/a05b
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14495
