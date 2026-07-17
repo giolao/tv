@@ -391,6 +391,18 @@ http://91.146.94.234:10001/play/a05g
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="THỂ THAO",FUSSBALL.TV 1 ᵁᴴᴰ 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090454&extension=ts&play_token=AMK9RFoueY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="THỂ THAOP",FUSSBALL.TV 2 ᵁᴴᴰ 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
+
+
 
 #EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 1
 udp://@225.1.1.10:30120
