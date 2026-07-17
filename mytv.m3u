@@ -252,7 +252,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+http://178.253.194.79:10004
 #http://91.146.94.234:10001/play/a0c4
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
 #KODIPROP:inputstream=inputstream.adaptive
