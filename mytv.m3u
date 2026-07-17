@@ -220,6 +220,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
+#https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
@@ -359,7 +360,8 @@ https://get.perfecttv.net/mutv.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -367,7 +369,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #http://151.80.18.177:86/Eurosport_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -393,12 +396,12 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
 #EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; timezone=GMT
-http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090454&extension=ts&play_token=AMK9RFoueY
+#http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090454&extension=ts&play_token=AMK9RFoueY
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="THỂ THAO",FUSSBALL.TV 2 ᵁᴴᴰ 🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
 #EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; timezone=GMT
-http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
+#http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
 
 
 
