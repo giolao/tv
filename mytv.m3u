@@ -365,7 +365,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -374,7 +373,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #http://151.80.18.177:86/Eurosport_HD/index.m3u8 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -399,7 +397,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
 #EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; timezone=GMT
-http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090454&extension=ts&play_token=AMK9RFoueY
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090464&extension=ts&play_token=AMK9RFoueY
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="THỂ THAO",FUSSBALL.TV 2 ᵁᴴᴰ 🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
