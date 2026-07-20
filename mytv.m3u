@@ -193,10 +193,10 @@ http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl.png" group-title="THỂ THAO",Premier League 1
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 1
 #EXTVLCOPT:network-caching=10000
 http://vietsimpletv.ucoz.com/rtr/3-49-1?epl1
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl.png" group-title="THỂ THAO",Premier League 2
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 2
 #EXTVLCOPT:network-caching=10000
 http://vietsimpletv.ucoz.com/rtr/3-53-1?epl2
 
