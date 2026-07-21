@@ -261,6 +261,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
+EXTVLCOPT:network-caching=10000
 https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 2
@@ -393,10 +394,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 1
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=15000
 http://vietsimpletv.ucoz.com/rtr/3-49-1?epl1
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 2
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=15000
 http://vietsimpletv.ucoz.com/rtr/3-53-1?epl2
 
 #EXTINF:0 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 1
