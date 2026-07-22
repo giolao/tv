@@ -225,21 +225,29 @@ https://xemzi.short.gy/2000005
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
-#EXTVLCOPT:network-caching=10000
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live/live/B159robparkin/99b15999/53850.m3u8
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
 #https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
-#EXTVLCOPT:network-caching=10000
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live/live/B159robparkin/99b15999/53851.m3u8
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
-#EXTVLCOPT:network-caching=10000
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live/live/B159robparkin/99b15999/53852.m3u8
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live/live/B159robparkin/99b15999/53853.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2334
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
+#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
