@@ -281,10 +281,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=10000
 https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #http://178.253.194.79:10001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=10000
 https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium 🇭🇷
