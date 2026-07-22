@@ -277,7 +277,18 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 http://hostengine.live/live/B159robparkin/99b15999/288121.m3u8
 #http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 2
-http://79.127.243.211:14473
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+http://hostengine.live/live/B159robparkin/99b15999/58509.m3u8
+#http://79.127.243.211:14473
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#http://46.151.196.223:14284
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv2.png" group-title="THỂ THAO",SporTV2 🇧🇷
 #KODIPROP:inputstream=inputstream.adaptive
@@ -313,14 +324,6 @@ https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #http://178.253.194.79:10017
 
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-#http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#http://46.151.196.223:14284
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
 http://46.151.196.223:14366
