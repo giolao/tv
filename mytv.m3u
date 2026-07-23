@@ -58,7 +58,7 @@ udp://@225.1.1.186:30120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=kSHr4pO8Rs2J5dg6eMGlPA:koVhWkkaQk-wJfno1XG81Q
 https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 
 #EXTINF:0  tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvcab1.png",ON VIE GIẢI TRÍ
@@ -208,7 +208,7 @@ https://xemzi.short.gy/700008
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
 https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/B159robparkin/99b15999/309256
@@ -227,7 +227,7 @@ http://hostengine.live/live/B159robparkin/99b15999/53977.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
 https://xemzi.short.gy/2000005
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/B159robparkin/99b15999/309257
@@ -236,11 +236,11 @@ http://hostengine.live/B159robparkin/99b15999/309257
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/B159robparkin/99b15999/309258
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports Live 2 ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 2 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/B159robparkin/99b15999/309259
