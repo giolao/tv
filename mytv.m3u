@@ -209,18 +209,18 @@ https://xemzi.short.gy/700008
 https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309256.m3u8
+http://hostengine.live/B159robparkin/99b15999/309256
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 #EXTVLCOPT:network-caching=10000
 https://xemzi.short.gy/2000003
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=10000
-https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
-#http://hostengine.live/live/B159robparkin/99b15999/53977.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53977.m3u8
 #https://xemzi.short.gy/2000012
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=10000
@@ -228,22 +228,22 @@ https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
 https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309257.m3u8
+http://hostengine.live/B159robparkin/99b15999/309257
 #EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:network-caching=10000
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports 1 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
+#EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309258.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports 2 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+http://hostengine.live/B159robparkin/99b15999/309258
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="THỂ THAO",Sky Sports Live 2 ᵁᴴᴰ 🇬🇧
+#EXTVLCOPT:http-user-agent=ExoPlayer/4.2.0 (Linux;Android 7.1.1) ExoPlayerLib/2.7.1
 #EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309259.m3u8
+http://hostengine.live/B159robparkin/99b15999/309259
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
