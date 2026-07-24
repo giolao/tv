@@ -275,15 +275,10 @@ http://hostengine.live/live/B159robparkin/99b15999/53853.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2334
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 
-#EXTINF:-1 group-title="4K UHD" tvg-id="TNTSports4k.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS ULTIMATE ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 group-title="4K UHD" tvg-id="TNTSports4k.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tnt4k.png",TNT SPORTS ULTIMATE ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/224931.ts
-
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/now4k.png",NOW SPORTS ᵁᴴᴰ 🇭🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/314564.ts
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png",HUB PREMIER 2 ᵁᴴᴰ 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -310,8 +305,9 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903784&extension=m3u8
 #http://hostengine.live/live/B159robparkin/99b15999/288121.m3u8
-http://178.253.194.79:10004
+#http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 http://hostengine.live/live/B159robparkin/99b15999/58509.m3u8
