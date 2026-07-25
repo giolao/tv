@@ -276,8 +276,6 @@ http://hostengine.live/live/B159robparkin/99b15999/53853.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="TNTSports4k.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tnt4k.png",TNT SPORTS ULTIMATE ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/224931.ts
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png",HUB PREMIER 2 ᵁᴴᴰ 🇸🇬
@@ -337,6 +335,15 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #http://177.52.24.163/SPORTV-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
