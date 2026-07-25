@@ -336,11 +336,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #http://177.52.24.163/SPORTV-3-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FS1
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FS1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FS2
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FS2 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
