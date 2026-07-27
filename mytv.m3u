@@ -360,8 +360,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FOX SPORTS 1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
+#http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FOX SPORTS 2 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
@@ -371,12 +371,12 @@ http://hostengine.live/live/B159robparkin/99b15999/53389.m3u8
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
-https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #http://178.253.194.79:10001
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
-https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium 🇭🇷
 #http://178.253.194.79:10005
