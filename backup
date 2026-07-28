@@ -1,0 +1,99 @@
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#http://46.151.196.223:14284
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv2.png" group-title="THỂ THAO",SporTV2 🇧🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#http://177.52.24.163/SPORTV-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv3.png" group-title="THỂ THAO",SporTV3 🇧🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#http://177.52.24.163/SPORTV-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=10000
+#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#http://178.253.194.79:10001
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=10000
+#https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#http://178.253.194.79:10004
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium 🇭🇷
+#http://178.253.194.79:10005
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a4p.png" group-title="THỂ THAO",Arena 4 Premium 🇭🇷
+#http://178.253.194.79:10016 
+#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium 🇭🇷
+#http://178.253.194.79:10017
+
+
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
+#http://46.151.196.223:14366
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn2.png" group-title="THỂ THAO", ESPN 2 🇧🇷
+#http://79.127.243.211:14506
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn3.png" group-title="THỂ THAO", ESPN 3 🇧🇷
+#http://79.127.243.211:14510
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn4.png" group-title="THỂ THAO", ESPN 4 🇧🇷
+#http://46.151.196.223:14448
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn5.png" group-title="THỂ THAO", ESPN 5 🇧🇷
+#http://46.151.196.223:14458
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn6.png" group-title="THỂ THAO", ESPN 6 🇧🇷
+#http://46.151.196.223:14462
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
+#http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#http://50.7.120.34:8080/DAZN1/index.m3u8 
+#http://46.151.196.223:14425
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
+#http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#http://23.237.104.106:8080/DAZN_2/index.m3u8 
+#http://46.151.196.223:14421
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
+#http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#http://23.237.104.106:8080/DAZN_3/index.m3u8
+#http://46.151.196.223:14422
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
+#http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#http://46.151.196.223:14423
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
+#http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#http://46.151.196.223:14424
+
+
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+#http://151.80.18.177:86/Eurosport_HD/index.m3u8 
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#http://151.80.18.177:86/Eurosport_2_HD/index.m3u8 
+
+
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports 2 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
