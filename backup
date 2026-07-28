@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
