@@ -290,18 +290,20 @@ http://hostengine.live/live/B159robparkin/99b15999/224931.ts
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png",HUB PREMIER 2 ᵁᴴᴰ 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
-#http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138829
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138829
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vsport.png",V SPORT ᵁᴴᴰ 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
-#http://mouhcindn.xyz:80/play/live.php?mac=00:1A:79:C7:AD:C7&stream=1284539&extension=ts
+http://mouhcindn.xyz:80/play/live.php?mac=00:1A:79:C7:AD:C7&stream=1284539&extension=ts
 
 #EXTINF:-1 tvg-id="1968709" tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903770&extension=m3u8
 #EXTINF:-1 tvg-id="1968708" tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138819
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -323,14 +325,22 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FOX SPORTS 1 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FOX SPORTS 2 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53389.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0 
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#http://hostengine.live/live/B159robparkin/99b15999/53389.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
@@ -344,82 +354,6 @@ https://s.rocketdns.info/monstercable/Dq6jjknxCr/651753
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv.png" group-title="THỂ THAO",SporTV 🇧🇷
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-#http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#http://46.151.196.223:14284
-
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv2.png" group-title="THỂ THAO",SporTV2 🇧🇷
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-#http://177.52.24.163/SPORTV-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/sportv3.png" group-title="THỂ THAO",SporTV3 🇧🇷
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#http://177.52.24.163/SPORTV-3-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premium 🇭🇷 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:network-caching=10000
-#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#http://178.253.194.79:10001
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premium 🇭🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:network-caching=10000
-#https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
-#http://178.253.194.79:10004
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premium 🇭🇷
-#http://178.253.194.79:10005
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a4p.png" group-title="THỂ THAO",Arena 4 Premium 🇭🇷
-#http://178.253.194.79:10016 
-#EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a5p.png" group-title="THỂ THAO",Arena 5 Premium 🇭🇷
-#http://178.253.194.79:10017
-
-
-
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn.png" group-title="THỂ THAO", ESPN 🇧🇷
-#http://46.151.196.223:14366
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn2.png" group-title="THỂ THAO", ESPN 2 🇧🇷
-#http://79.127.243.211:14506
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn3.png" group-title="THỂ THAO", ESPN 3 🇧🇷
-#http://79.127.243.211:14510
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn4.png" group-title="THỂ THAO", ESPN 4 🇧🇷
-#http://46.151.196.223:14448
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn5.png" group-title="THỂ THAO", ESPN 5 🇧🇷
-#http://46.151.196.223:14458
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/espn6.png" group-title="THỂ THAO", ESPN 6 🇧🇷
-#http://46.151.196.223:14462
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
-#http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#http://50.7.120.34:8080/DAZN1/index.m3u8 
-#http://46.151.196.223:14425
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
-#http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#http://23.237.104.106:8080/DAZN_2/index.m3u8 
-#http://46.151.196.223:14421
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
-#http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#http://23.237.104.106:8080/DAZN_3/index.m3u8
-#http://46.151.196.223:14422
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
-#http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#http://46.151.196.223:14423
-#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
-#http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#http://46.151.196.223:14424
-
 
 #EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
@@ -447,22 +381,11 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp1.png" group-title="THỂ THAO",Euro Sport 1 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#http://151.80.18.177:86/Eurosport_HD/index.m3u8 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/eursp2.png" group-title="THỂ THAO",Euro Sport 2 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-#http://151.80.18.177:86/Eurosport_2_HD/index.m3u8 
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports 2 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -470,12 +393,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3667
-
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports 2 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
-#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/mutv.png" group-title="THỂ THAO",MUTV
 https://get.perfecttv.net/mutv.mpd
