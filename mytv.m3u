@@ -225,17 +225,18 @@ https://xemzi.short.gy/2000001
 http://hostengine.live/live/B159robparkin/99b15999/309256.ts
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 #EXTVLCOPT:network-caching=10000
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
+http://hostengine.live/live/B159robparkin/99b15999/53980.ts
+#http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
 #https://xemzi.short.gy/2000003
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 #https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
-http://hostengine.live/live/B159robparkin/99b15999/53977.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53977.ts
 #https://xemzi.short.gy/2000012
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=5000
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
 https://xemzi.short.gy/2000005
@@ -246,10 +247,15 @@ http://hostengine.live/live/B159robparkin/99b15999/309257.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live//B159robparkin/99b15999/285973.m3u
+http://hostengine.live:2086/live//B159robparkin/99b15999/285973.ts
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136694
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
-
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -263,25 +269,25 @@ http://hostengine.live/live/B159robparkin/99b15999/309259.ts
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53850.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53850.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
 #https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53851.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53851.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53852.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53852.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53853.m3u8
+http://hostengine.live/live/B159robparkin/99b15999/53853.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2334
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 
