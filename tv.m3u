@@ -1,37 +1,34 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml" m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv1.png",VTV1
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv2.png",VTV2
-https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv3.png",VTV3
-https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv4.png",VTV4
-https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv5.png",VTV5
-https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv6.png",VTV6
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv7.png",VTV7
-https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv8.png",VTV8
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv9.png",VTV9
-https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv10.png",VTV10
-https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
 #EXTINF:-1  tvg-id="vtvcab-2-phim-viet-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/Logo/oncab/on_phim_viet.png",ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:0  tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvcab1.png",ON Vie Giải Trí
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
-#EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
-https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
-https://live-a.fptplay53.net/live/media/antv/live-hls-avc/index.m3u8
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
-https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/index.m3u8
-
-#EXTINF:0  tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvcab1.png",ON VIE GIẢI TRÍ
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:0 tvg-id="nghean" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
+https://freem3u.xyz/api/live/play.m3u8?vid=74
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
+https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-id="onsports" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -75,11 +72,6 @@ https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/hbobox.png",HBO Boxing
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -156,3 +148,9 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="THỂ THAO" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/hbobox.png",HBO Boxing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
