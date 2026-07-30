@@ -74,10 +74,10 @@ https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctv1.png",SCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kSHr4pO8Rs2J5dg6eMGlPA:koVhWkkaQk-wJfno1XG81Q
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kSHr4pO8Rs2J5dg6eMGlPA","k":"koVhWkkaQk-wJfno1XG81Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 
 #EXTINF:-1 group-title="SCTV"tvg-logo="https://vietsimpletv.ucoz.com/live/logo/sctvpth.png",SCTV Phim Tổng Hợp
