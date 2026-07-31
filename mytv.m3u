@@ -219,10 +219,10 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/204946.m3u
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=10000
-#http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
+http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
-http://hostengine.live/live/B159robparkin/99b15999/53982.ts
+#http://hostengine.live/live/B159robparkin/99b15999/53982.ts
 #https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
@@ -246,18 +246,14 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 #https://xemzi.short.gy/2000012
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
+3http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
-#http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/309257.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyact.png" group-title="4K UHD",Sky Sports Action ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309256.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53983.ts
