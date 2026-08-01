@@ -211,7 +211,7 @@ http://hostengine.live/live/B159robparkin/99b15999/53986.ts
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/335
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇳🇿
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/204946.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/204946.ts
 #https://xemzi.short.gy/700008
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
 #EXTVLCOPT:network-caching=5000
@@ -244,6 +244,9 @@ http://hostengine.live/live/B159robparkin/99b15999/53977.ts
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 #https://xemzi.short.gy/2000012
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
+#EXTVLCOPT:network-caching=5000
+http://hostengine.live/live/B159robparkin/99b15999/53983.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
@@ -255,9 +258,6 @@ http://hostengine.live/live/B159robparkin/99b15999/53979.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/309257.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
-#EXTVLCOPT:network-caching=5000
-http://hostengine.live/live/B159robparkin/99b15999/53983.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
@@ -313,10 +313,12 @@ http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138829
 #EXTINF:-1 tvg-id="1968709" tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
+#http://172.110.221.91:8080/Will/sSGuUSCQeK/138818
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903770&extension=m3u8
 #EXTINF:-1 tvg-id="1968708" tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138819
+#http://172.110.221.91:8080/Will/sSGuUSCQeK/138819
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
