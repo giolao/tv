@@ -76,15 +76,14 @@ https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-https://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
 #############################################################################################################################
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg",  ON FOOTBALL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livebytsct.vtvprime.vn/livesnv2/BONGDA_HD/manifest.mpd
