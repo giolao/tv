@@ -320,6 +320,11 @@ http://hostengine.live/live/B159robparkin/99b15999/224931.ts
 #EXTVLCOPT:network-caching=10000
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138829
 
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/astrosp4k.png",ASTRO SPORTS ᵁᴴᴰ 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=10000
+http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/110707
+
 #EXTINF:-1 tvg-id="1968709" tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
