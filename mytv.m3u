@@ -220,8 +220,8 @@ http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
 #EXTVLCOPT:network-caching=10000
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
-#http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-http://hostengine.live/live/B159robparkin/99b15999/53986.ts
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#http://hostengine.live/live/B159robparkin/99b15999/53986.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
 #https://xemzi.short.gy/2000002
@@ -237,10 +237,10 @@ http://hostengine.live/live/B159robparkin/99b15999/53986.ts
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=10000
-#http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
+http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
-http://hostengine.live/live/B159robparkin/99b15999/53982.ts
+#http://hostengine.live/live/B159robparkin/99b15999/53982.ts
 #https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
