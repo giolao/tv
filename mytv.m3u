@@ -158,49 +158,49 @@ udp://@225.1.1.242:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="ACE SPORTS" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports Premier League 🇬🇧
+#EXTINF:-1 tvg-id="4569" group-title="ACE SPORTS" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports Premier League 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="ACE SPORTS",Sky Sports Main Event 🇬🇧
+#EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="ACE SPORTS",Sky Sports Main Event 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyarena.png",Sky Sports Arena 🇬🇧
+#EXTINF:-1 tvg-id="4572" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyarena.png",Sky Sports Arena 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png", Sky Sports Football 🇬🇧
+#EXTINF:-1 tvg-id="4570" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyfut.png", Sky Sports Football 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png", Sky Sports F1 🇩🇪
+#EXTINF:-1 tvg-id="4656" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyf1.png", Sky Sports F1 🇩🇪
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
+#EXTINF:-1 group-title="ACE SPORTS" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
+#EXTINF:-1 group-title="ACE SPORTS" tvg-id="2890" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
+#EXTINF:-1 group-title="ACE SPORTS" tvg-id="3560" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="ACE SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
+#EXTINF:-1 group-title="ACE SPORTS" tvg-id="6507" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇫🇷
+#EXTINF:-1 tvg-id="2884" group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇫🇷
+#EXTINF:-1 tvg-id="2885" group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇫🇷
+#EXTINF:-1 tvg-id="2886" group-title="ACE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇫🇷
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 Bar 🇩🇪
+#EXTINF:-1 tvg-id="11398" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 Bar 🇩🇪
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 Bar 🇩🇪
+#EXTINF:-1 tvg-id="11399" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 Bar 🇩🇪
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
+#EXTINF:-1 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
+#EXTINF:-1 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
+#EXTINF:-1 tvg-id="2917" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
+#EXTINF:-1 tvg-id="2918" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
+#EXTINF:-1 tvg-id="2919" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn6.png", DAZN 6 🇵🇹
+#EXTINF:-1 tvg-id="2920" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn6.png", DAZN 6 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/daznf1.png", DAZN F1 🇪🇸
+#EXTINF:-1 tvg-id="5088" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/daznf1.png", DAZN F1 🇪🇸
 http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
+#EXTINF:-1 tvg-id="4587" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
@@ -214,12 +214,12 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier League 🇬🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
-#http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
+http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
+#EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
 #EXTVLCOPT:network-caching=10000
-http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
-#http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #http://hostengine.live/live/B159robparkin/99b15999/53986.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
@@ -230,11 +230,11 @@ http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
 #EXTVLCOPT:network-caching=5000
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/204946.ts
 #https://xemzi.short.gy/700008
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
+#EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
 #EXTVLCOPT:network-caching=5000
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136324
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
+#EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=10000
 #http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
@@ -242,7 +242,7 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
 http://hostengine.live/live/B159robparkin/99b15999/53982.ts
 #https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/309256.ts
@@ -251,17 +251,17 @@ http://hostengine.live/live/B159robparkin/99b15999/309256.ts
 http://hostengine.live/live/B159robparkin/99b15999/53980.ts
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
 #https://xemzi.short.gy/2000003
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
+#EXTINF:-1 tvg-id="4572" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 #https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
 http://hostengine.live/live/B159robparkin/99b15999/53977.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
+#EXTINF:-1 tvg-id="9400" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 #https://xemzi.short.gy/2000012
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
+#EXTINF:-1 tvg-id="4573" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53983.ts
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
@@ -271,11 +271,11 @@ http://hostengine.live/live/B159robparkin/99b15999/53983.ts
 http://hostengine.live/live/B159robparkin/99b15999/53979.ts
 #http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #https://xemzi.short.gy/2000005
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
+#EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/309257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
+#EXTINF:-1 tvg-id="6561" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live:2086/live//B159robparkin/99b15999/285973.ts
@@ -283,7 +283,7 @@ http://hostengine.live:2086/live//B159robparkin/99b15999/285973.ts
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -294,25 +294,25 @@ http://hostengine.live/live/B159robparkin/99b15999/309258.ts
 #EXTVLCOPT:network-caching=10000
 http://hostengine.live/live/B159robparkin/99b15999/309259.ts
 
-#EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53850.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
 #https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
-#EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="2890" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53851.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
-#EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="3560" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53852.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
-#EXTINF:-1 group-title="THỂ THAO" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="6507" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 http://hostengine.live/live/B159robparkin/99b15999/53853.ts
@@ -356,7 +356,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 🇦🇺
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FOX SPORTS 1 🇺🇸
+#EXTINF:-1 tvg-id="4558" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FOX SPORTS 1 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -365,7 +365,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 #http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FOX SPORTS 2 🇺🇸
+#EXTINF:-1 tvg-id="4559" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FOX SPORTS 2 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -387,7 +387,7 @@ https://s.rocketdns.info/monstercable/Dq6jjknxCr/651753
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL 🇺🇸
+#EXTINF:0 tvg-id="3118" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -419,7 +419,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA 🇺🇸
+#EXTINF:-1 tvg-id="4587" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
