@@ -235,6 +235,12 @@ http://89.41.180.35:25461/0210432720/0210432720/8
 #EXTVLCOPT:network-caching=5000
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136324
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/canalplus.png" group-title="THỂ THAO",CANAL+ FOOT 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/135224
+
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=10000
 http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
