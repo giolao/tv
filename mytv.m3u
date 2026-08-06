@@ -270,10 +270,11 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 http://hostengine.live/live/B159robparkin/99b15999/53983.ts
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
 #http://hostengine.live/live/B159robparkin/99b15999/53979.ts
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
