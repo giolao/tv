@@ -229,7 +229,7 @@ http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇳🇿
 #EXTVLCOPT:network-caching=5000
-#http://hostengine.live:2086/live/Tkarymom1/Reggine1/204946.ts
+http://89.41.180.35:25461/0210432720/0210432720/8
 #https://xemzi.short.gy/700008
 #EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
 #EXTVLCOPT:network-caching=5000
