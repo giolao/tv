@@ -257,7 +257,8 @@ http://hostengine.live/live/B159robparkin/99b15999/53980.ts
 #EXTINF:-1 tvg-id="4572" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=10000
-https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
+http://172.110.221.91:8080/Will/sSGuUSCQeK/100765
+#https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
 #http://hostengine.live/live/B159robparkin/99b15999/53977.ts
 #EXTINF:-1 tvg-id="9400" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
