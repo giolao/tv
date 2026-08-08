@@ -219,7 +219,8 @@ http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
 #http://31.43.191.125:8080/VIP01161755891301578/d3eedae9ce23/157424
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
 #EXTVLCOPT:network-caching=5000
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&extension=ts
+http://germanyservers2.net/live/zLciT1QGMY/ehwmEXGZ3m/1de6975c-51d7-4cf6-9006-49cdeef0c366.m3u8
+#http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&extension=ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
 #http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #http://hostengine.live/live/B159robparkin/99b15999/53986.ts
@@ -236,11 +237,6 @@ http://89.41.180.35:25461/0210432720/0210432720/8
 #EXTVLCOPT:network-caching=5000
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136324
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/canalplus.png" group-title="THỂ THAO",CANAL+ FOOT 🇫🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=5000
-http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/135224
 
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=5000
@@ -362,6 +358,11 @@ http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138819
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/138819
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/canalplus.png" group-title="THỂ THAO",CANAL+ FOOT 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
+#EXTVLCOPT:network-caching=5000
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/135224
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
