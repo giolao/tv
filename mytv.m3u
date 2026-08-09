@@ -231,7 +231,7 @@ http://germanyservers2.net/live/zLciT1QGMY/ehwmEXGZ3m/1de6975c-51d7-4cf6-9006-49
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇳🇿
 #EXTVLCOPT:network-caching=5000
-http://89.41.180.35:25461/0210432720/0210432720/8
+#http://89.41.180.35:25461/0210432720/0210432720/8
 #https://xemzi.short.gy/700008
 #EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
 #EXTVLCOPT:network-caching=5000
