@@ -210,7 +210,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTVLCOPT:network-caching=5000
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/660938
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
-#http://soomfix.xyz:8080/live/Saurabhbhandari59939/g3fKsuK/44703.ts
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier League 🇬🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -224,7 +223,7 @@ http://germanyservers2.net/live/zLciT1QGMY/ehwmEXGZ3m/1de6975c-51d7-4cf6-9006-49
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&extension=ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
 #http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-#http://hostengine.live/live/B159robparkin/99b15999/53986.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
 #https://xemzi.short.gy/2000002
@@ -245,19 +244,13 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83448&exte
 #http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
-#http://hostengine.live/live/B159robparkin/99b15999/53982.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53982.ts
 #https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
-#EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="4K UHD",Sky Sports Main Event ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83450&extension=ts
-#http://hostengine.live/live/B159robparkin/99b15999/309256.ts
 #EXTINF:-1 tvg-id="4570" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
-#http://hostengine.live/live/B159robparkin/99b15999/53980.ts
-#http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53980.ts
 #https://xemzi.short.gy/2000003
 #EXTINF:-1 tvg-id="4572" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -266,51 +259,39 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83455&exte
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100765
 #https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
-#http://hostengine.live/live/B159robparkin/99b15999/53977.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53977.ts
 #EXTINF:-1 tvg-id="9400" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
+http://172.110.221.91:8080/Will/sSGuUSCQeK/138607
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 #https://xemzi.short.gy/2000012
 #EXTINF:-1 tvg-id="4573" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83449&extension=ts
-#http://hostengine.live/live/B159robparkin/99b15999/53983.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.ts
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
-#http://hostengine.live/live/B159robparkin/99b15999/53979.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53979.ts
 #http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #https://xemzi.short.gy/2000005
-#EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="4K UHD",Sky Sports F1 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309257.ts
 #EXTINF:-1 tvg-id="6561" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live//B159robparkin/99b15999/285973.ts
-#http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136694
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/285973.ts
+http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136694
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
 #EXTVLCOPT:network-caching=5000
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 1 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309258.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skylive.png" group-title="4K UHD",Sky Sports Live 2 ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://hostengine.live/live/B159robparkin/99b15999/309259.ts
-
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://172.110.221.91:8080/Will/sSGuUSCQeK/100775
-#http://hostengine.live/live/B159robparkin/99b15999/53850.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53850.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343
 #https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
@@ -318,32 +299,22 @@ http://172.110.221.91:8080/Will/sSGuUSCQeK/100775
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://172.110.221.91:8080/Will/sSGuUSCQeK/100776
-#http://hostengine.live/live/B159robparkin/99b15999/53851.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53851.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/344
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="3560" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://172.110.221.91:8080/Will/sSGuUSCQeK/100777
-#http://hostengine.live/live/B159robparkin/99b15999/53852.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53852.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="6507" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://172.110.221.91:8080/Will/sSGuUSCQeK/100778
-#http://hostengine.live/live/B159robparkin/99b15999/53853.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53853.ts
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2334
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
-
-#EXTINF:-1 group-title="4K UHD" tvg-id="TNTSports4k.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tnt4k.png",TNT SPORTS ULTIMATE ᵁᴴᴰ 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-http://hostengine.live/live/B159robparkin/99b15999/224931.ts
-
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="4K UHD" tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png",HUB PREMIER 2 ᵁᴴᴰ 🇸🇬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=10000
-http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138829
-
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
@@ -385,7 +356,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#http://hostengine.live/live/B159robparkin/99b15999/53390.m3u8
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53390.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 #EXTINF:-1 tvg-id="8407" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs2.png" group-title="THỂ THAO",FOX SPORTS 2 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
@@ -394,14 +365,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0 
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#http://hostengine.live/live/B159robparkin/99b15999/53389.m3u8
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53389.m3u8
 #http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903784&extension=m3u8
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/651753
-#http://hostengine.live/live/B159robparkin/99b15999/288121.m3u8
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/288121.m3u8
 #http://178.253.194.79:10004
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 2
 #KODIPROP:inputstream=inputstream.adaptive
