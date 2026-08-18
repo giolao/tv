@@ -388,7 +388,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 
 #EXTINF:-1 tvg-id="3118" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/tenniscl.png" group-title="THỂ THAO",TENNIS CHANNEL 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15940.ts
+#https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #https://jmp2.uk/stvp-ATBA2200008XN
