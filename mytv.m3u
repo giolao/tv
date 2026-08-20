@@ -208,6 +208,7 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/692505
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/660938
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
 
