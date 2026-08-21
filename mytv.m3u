@@ -226,10 +226,8 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&exte
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
 #http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2181
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2182
 #https://xemzi.short.gy/2000002
-#http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/335
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/711371
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇳🇿
 #EXTVLCOPT:network-caching=5000
@@ -240,13 +238,14 @@ http://king-tv.net:8080/rszitas/uCTE8Vjamu/598296
 #EXTVLCOPT:network-caching=5000
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136324
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/457164
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/67124
 
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83448&extension=ts
 #http://stream.bottledesk.net/p/BQRDSwECe2c/index.m3u8
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2185
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/711005
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53982.ts
 #https://xemzi.short.gy/2000001
 #http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/332
@@ -254,29 +253,29 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83448&exte
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53980.ts
-#https://xemzi.short.gy/2000003
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/711023
 #EXTINF:-1 tvg-id="4572" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83455&extension=ts
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100765
 #https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2193
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/257077
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53977.ts
 #EXTINF:-1 tvg-id="9400" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/138607
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
-#https://xemzi.short.gy/2000012
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/691669
 #EXTINF:-1 tvg-id="4573" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83449&extension=ts
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.ts
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/648533
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
-#http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2190
+#http://king-tv.net:8080/rszitas/uCTE8Vjamu/158254
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/53979.ts
 #http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #https://xemzi.short.gy/2000005
