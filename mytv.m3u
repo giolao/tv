@@ -283,12 +283,12 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&exte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/400799
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/285973.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/285973.ts
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/136694
-#http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -324,13 +324,13 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53853.ts
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/138818
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/716063
-http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903770&extension=m3u8
+#http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903770&extension=m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138819
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/138819
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/715991
-http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
+#http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/canalplus.png" group-title="THỂ THAO",CANAL+ FOOT 🇫🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
