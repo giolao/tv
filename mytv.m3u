@@ -295,30 +295,30 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/694977
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100775
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53850.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53850.ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47850.ts
-#https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2890" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/711388
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100776
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53851.ts
-#http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47851.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53851.ts
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47851.ts
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="3560" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/711387
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100777
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53852.ts
-#http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47852.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53852.ts
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47852.ts
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="6507" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/694984
 #http://172.110.221.91:8080/Will/sSGuUSCQeK/100778
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53853.ts
-#http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47853.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53853.ts
+http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47853.ts
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138818
