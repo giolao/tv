@@ -380,8 +380,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/8040.m3u8
-#http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903784&extension=m3u8
+#http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/8040.m3u8
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903784&extension=m3u8
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/651753
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/288121.m3u8
 #http://178.253.194.79:10004
