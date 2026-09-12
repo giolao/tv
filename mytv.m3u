@@ -237,6 +237,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
 #EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇩🇪
 #EXTVLCOPT:network-caching=5000
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
+#http://ege.efetv.de:8080/vakkasekmen/F0gj8WTe2j/426457
 
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=5000
@@ -287,6 +288,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyao1.png" group-title="THỂ THAO",Sky Sports Austria 1 🇦🇹
 #EXTVLCOPT:network-caching=5000
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15939.m3u8
+#http://ege.efetv.de:8080/vakkasekmen/F0gj8WTe2j/212526
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
