@@ -282,7 +282,11 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/285973.ts
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
 #EXTVLCOPT:network-caching=5000
-#http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Austria 1 🇦🇹
+#EXTVLCOPT:network-caching=5000
+http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15939.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -315,12 +319,10 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53853.ts
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1968709&extension=ts&play_token=WUdAWyal8k
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903770&extension=m3u8
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1968708&extension=ts&play_token=xEtdfonMTH
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903769&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/canalplus.png" group-title="THỂ THAO",CANAL+ FOOT 🇫🇷
