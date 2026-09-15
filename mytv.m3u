@@ -190,17 +190,17 @@ http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="11399" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 Bar 🇩🇪
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
+#EXTINF:0 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
+#EXTINF:0 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="2917" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
+#EXTINF:0 tvg-id="2917" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="2918" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
+#EXTINF:0 tvg-id="2918" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn4.png", DAZN 4 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="2919" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
+#EXTINF:0 tvg-id="2919" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn5.png", DAZN 5 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="2920" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn6.png", DAZN 6 🇵🇹
+#EXTINF:0 tvg-id="2920" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn6.png", DAZN 6 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="5088" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/daznf1.png", DAZN F1 🇪🇸
 http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
@@ -242,9 +242,9 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16052.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8
 #http://89.187.191.99/arenaPremium3/index.m3u8?token=ksport2021
 
-#EXTINF:-1 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
+#EXTINF:0 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16221.m3u8
-#EXTINF:-1 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
+#EXTINF:0 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16222.m3u8
 
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
