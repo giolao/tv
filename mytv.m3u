@@ -215,12 +215,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/660938
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/mono1.png" group-title="THỂ THAO",MonoMax Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=5000
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130733
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
-
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier League 🇬🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
@@ -247,6 +241,11 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16052.m3u8
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15911.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8
 #http://89.187.191.99/arenaPremium3/index.m3u8?token=ksport2021
+
+#EXTINF:-1 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇵🇹
+http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16221.m3u8
+#EXTINF:-1 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇵🇹
+http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16222.m3u8
 
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier League 🇬🇧
 #EXTVLCOPT:network-caching=5000
