@@ -162,7 +162,7 @@ udp://@225.1.1.242:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
 
-#EXTINF:-1 tvg-id="4569" group-title="ACE SPORTS" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports Premier Leagueᴺᴴᴬ 🇬🇧
+#EXTINF:-1 tvg-id="4569" group-title="ACE SPORTS" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports Premier Leagueᴱᴾᴸ 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="ACE SPORTS",Sky Sports Main Event 🇬🇧
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -190,9 +190,9 @@ http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="11399" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 Bar 🇩🇪
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:0 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1ᴺᴴᴬ 🇵🇹
+#EXTINF:0 tvg-id="2915" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1ᴱᴾᴸ 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:0 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2ᴺᴴᴬ 🇵🇹
+#EXTINF:0 tvg-id="2916" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2ᴱᴾᴸ 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:0 tvg-id="2917" group-title="ACE SPORTS" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn3.png", DAZN 3 🇵🇹
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
@@ -207,73 +207,73 @@ http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="4587" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="ACE SPORTS",NBA 🇺🇸
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sportsᴺᴴᴬ 🇺🇸
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sportsᴱᴾᴸ 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League TVᴺᴴᴬ
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League TVᴱᴾᴸ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://king-tv.net:8080/rszitas/uCTE8Vjamu/692505
 #https://s.rocketdns.info/monstercable/Dq6jjknxCr/660938
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1ᴺᴴᴬ 🇸🇬
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1ᴱᴾᴸ 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=m3u8
 #https://api.plus-server.sbs/play.php?key=1234&source=bontv&url=http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27%26stream=1314077%26extension=m3u8
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2ᴺᴴᴬ 🇸🇬
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg"  tvg-name="HUB PREMIER 2" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl2.png" group-title="THỂ THAO" tvg-chno="2616",HUB PREMIER 2ᴱᴾᴸ 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
 #https://api.plus-server.sbs/play.php?key=1234&source=bontv&url=http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27%26stream=1314078%26extension=m3u8
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier Leagueᴺᴴᴬ 🇬🇷
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier Leagueᴱᴾᴸ 🇬🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=5000
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
 #http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/115688
 
-#EXTINF:-1 tvg-id="9271" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premiumᴺᴴᴬ 🇭🇷 
+#EXTINF:-1 tvg-id="9271" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premiumᴱᴾᴸ 🇭🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15909.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16051.m3u8
 #http://89.187.191.99/arenaPremium1/index.m3u8?token=ksport2021
 
-#EXTINF:-1 tvg-id="9272" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premiumᴺᴴᴬ 🇭🇷
+#EXTINF:-1 tvg-id="9272" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a2p.png" group-title="THỂ THAO",Arena 2 Premiumᴱᴾᴸ 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15910.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16052.m3u8
 #http://89.187.191.99/arenaPremium2/index.m3u8?token=ksport2021
 
-#EXTINF:-1 tvg-id="9273" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premiumᴺᴴᴬ 🇭🇷
+#EXTINF:-1 tvg-id="9273" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a3p.png" group-title="THỂ THAO",Arena 3 Premiumᴱᴾᴸ 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:network-caching=5000
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15911.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8
 #http://89.187.191.99/arenaPremium3/index.m3u8?token=ksport2021
 
-#EXTINF:0 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1ᴺᴴᴬ 🇵🇹
+#EXTINF:0 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1ᴱᴾᴸ 🇵🇹
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16221.m3u8
-#EXTINF:0 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2ᴺᴴᴬ 🇵🇹
+#EXTINF:0 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2ᴱᴾᴸ 🇵🇹
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16222.m3u8
 
-#EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴺᴴᴬ 🇬🇧
+#EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&extension=ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/8476
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴺᴴᴬ 🇳🇿
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇳🇿
 #EXTVLCOPT:network-caching=5000
 https://xemzi.short.gy/700008
 
-#EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴺᴴᴬ 🇩🇪
+#EXTINF:-1 tvg-id="9115" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇩🇪
 #EXTVLCOPT:network-caching=5000
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
 #http://ege.efetv.de:8080/vakkasekmen/F0gj8WTe2j/426457
