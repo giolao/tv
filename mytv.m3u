@@ -638,6 +638,80 @@ udp://@225.1.1.100:30120
 #EXTINF:-1 tvg-id="" group-title="FPT Live" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Live 45
 udp://@225.1.1.101:30120
 
+
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtvprime.png", VTVPrime 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
+
 #EXTINF:-1 group-title="ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -674,3 +748,4 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
+
