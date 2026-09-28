@@ -265,17 +265,12 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16052.m3u8
 http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16053.m3u8
 #http://89.187.191.99/arenaPremium3/index.m3u8?token=ksport2021
 
-#EXTINF:0 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1ᴱᴾᴸ 🇵🇹
-#http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16221.m3u8
-#EXTINF:0 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2ᴱᴾᴸ 🇵🇹
-#http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16222.m3u8
-
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83447&extension=ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47871.m3u8
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
-#http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/8476
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53986.ts
+https://papacito.cfd/m3u/now-545454545/live.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇳🇿
 #EXTVLCOPT:network-caching=5000
@@ -289,14 +284,14 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15941.m3u8
 #EXTINF:-1 tvg-id="4571" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO",Sky Sports Main Event 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83448&extension=ts
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53982.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53982.ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47868.ts
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/40052
 
 #EXTINF:-1 tvg-id="4570" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO",Sky Sports Football 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83452&extension=ts
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53980.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53980.ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47866.ts
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/39993
 #EXTINF:-1 tvg-id="4572" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyssplus.png" group-title="THỂ THAO", Sky Sports+ 🇬🇧
@@ -304,24 +299,25 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53980.ts
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83455&extension=ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47863.ts
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53977.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53977.ts
 #EXTINF:-1 tvg-id="9400" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skytennis.png" group-title="THỂ THAO",Sky Sports Tennis 🇬🇧
 #EXTVLCOPT:network-caching=5000
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
+https://papacito.cfd/m3u/now-sky-sports-tennis/live.m3u8
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.ts
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/295854
 
 #EXTINF:-1 tvg-id="4573" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skymix.png" group-title="THỂ THAO",Sky Sports Mix 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83449&extension=ts
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.ts
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53983.ts
 #http://206.212.242.21:8080/live/Cruzvictor148/9354907121/47869.ts
 #http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/8474
 
 #EXTINF:-1 tvg-id="4576" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO",Sky Sports F1 🇬🇧
 #EXTVLCOPT:network-caching=5000
 #http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:66:0A:2C&stream=83453&extension=ts
-#http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/8470
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/53979.ts
+https://papacito.cfd/m3u/now-545445/live.m3u8
+#http://hostengine.live:2086/live/Tkarymom1/Reggine1/53979.ts
 #http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1 tvg-id="6561" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skygp.png" group-title="THỂ THAO", Sky Sport MotoGP 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -329,14 +325,10 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53979.ts
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/285973.ts
 #http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19133/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyselect.png" group-title="THỂ THAO",Sky Sports Select 🇳🇿
-#EXTVLCOPT:network-caching=5000
-#http://hostengine.live:2086/live/Tkarymom1/Reggine1/289639.ts
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/skyao1.png" group-title="THỂ THAO",Sky Sports Austria 1 🇦🇹
-#EXTVLCOPT:network-caching=5000
-#http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/15939.m3u8
-#http://ege.efetv.de:8080/vakkasekmen/F0gj8WTe2j/212526
+#EXTINF:0 tvg-id="2915" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn1.png", DAZN 1 🇩🇪
+http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/7935.m3u8
+#EXTINF:0 tvg-id="2916" group-title="THỂ THAO" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/dazn2.png", DAZN 2 🇩🇪
+http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/7936.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO" tvg-id="2889" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
