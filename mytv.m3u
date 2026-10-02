@@ -232,13 +232,13 @@ http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/16145.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1selecthd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1selecthd
+#https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1selecthd
 
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/starsp2.png" group-title="THỂ THAO",STAR SPORTS SELECT 2ᴱᴾᴸ 🇮🇳
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2selecthd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2selecthd
+#https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2selecthd
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg"  tvg-name="HUB PREMIER 1" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/hubpl1.png" group-title="THỂ THAO" tvg-chno="2615",HUB PREMIER 1ᴱᴾᴸ 🇸🇬
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
@@ -249,12 +249,6 @@ https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2selecthd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=m3u8
 #https://api.plus-server.sbs/play.php?key=1234&source=bontv&url=http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27%26stream=1314078%26extension=m3u8
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="http://vietsimpletv.ucoz.com/live/logo/novaepl.png" group-title="THỂ THAO",Nova Premier Leagueᴱᴾᴸ 🇬🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
-#EXTVLCOPT:network-caching=5000
-#http://soomfix.xyz:8080/Saurabhbhandari59939/g3fKsuK/44703
-#http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/115688
 
 #EXTINF:-1 tvg-id="9271" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/a1p.png" group-title="THỂ THAO",Arena 1 Premiumᴱᴾᴸ 🇭🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -416,7 +410,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 #http://apolonbox.online:80/live/E69E29E55212253B14243643BB83365D/8040.m3u8
 #http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903784&extension=m3u8
 #http://hostengine.live:2086/live/Tkarymom1/Reggine1/288121.m3u8
-https://vmttv.dpdns.org/tv360/?id=9965
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8
+#https://vmttv.dpdns.org/tv360/?id=9965
 #EXTINF:-1 tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vbtv.png" group-title="THỂ THAO", BÓNG CHUYỀN 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
