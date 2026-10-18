@@ -357,7 +357,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fox.png" group-title="THỂ THAO",FOX PLUSᴱᴾᴸ 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
 #EXTINF:-1 tvg-id="4558" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/fs1.png" group-title="THỂ THAO",FOX SPORTS 1 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
@@ -406,7 +406,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469
 
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sportsᴱᴾᴸ 🇺🇸
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
@@ -415,12 +415,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #https://m3usmart4k.gojo45749.workers.dev?id=73964
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
-
-#EXTINF:-1  tvg-id="Sports - Fubo Sports Network 2" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports Live 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
-#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-id="4587" tvg-logo="http://vietsimpletv.ucoz.com//live/logo/nba.png" group-title="THỂ THAO",NBA 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
