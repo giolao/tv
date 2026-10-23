@@ -219,10 +219,10 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322b
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 1 ᴱᴾᴸ
+#EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/nbcsn.png" group-title="THỂ THAO",NBCSN 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=60862
+https://m3usmart4k.gojo45749.workers.dev?id=2000
 
 #EXTINF:-1 tvg-id="4569" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO",Sky Sports Premier Leagueᴱᴾᴸ 🇬🇧
 #EXTVLCOPT:network-caching=5000
