@@ -213,6 +213,12 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
+#EXTINF:-1  tvg-id="Sports - Fubo Sports Network" tvg-logo="https://i.ibb.co/0j0hFKfq/Fubo-Sports.webp" group-title="THỂ THAO", FUBO Sports Network 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+
 #EXTINF:-1 tvg-logo="http://vietsimpletv.ucoz.com/live/logo/epl1.png" group-title="THỂ THAO",Premier League 1 ᴱᴾᴸ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=1000
