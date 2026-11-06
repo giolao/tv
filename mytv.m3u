@@ -207,12 +207,12 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/starsp1.png" group-title="THỂ THAO", Star Sports Select 1 🇮🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/starsp1.png" group-title="THỂ THAO", Star Sports Select 1ᴱᴾᴸ 🇮🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=1000
 http://mag.diamondtv.one:80/unur/rtdVDBNG2z/302028
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/starsp2.png" group-title="THỂ THAO", Star Sports Select 2 🇮🇳
+#EXTINF:-1 tvg-id="" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/starsp2.png" group-title="THỂ THAO", Star Sports Select 2ᴱᴾᴸ 🇮🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0
 #EXTVLCOPT:network-caching=1000
 http://mag.diamondtv.one:80/unur/rtdVDBNG2z/416133
