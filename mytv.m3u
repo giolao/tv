@@ -1,31 +1,31 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz" m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz" m3uautoload=0
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz" m3uautoload=1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv1.png",VTV1
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/premium/master.m3u8
+udp://@225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv2.png",VTV2
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/premium/master.m3u8
+udp://@225.1.2.13:30120
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv3.png",VTV3
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/premium/master.m3u8
+udp://@225.1.2.247:30120
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv4.png",VTV4
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/premium/master.m3u8
+udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv5.png",VTV5
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/premium/master.m3u8
+udp://@225.1.1.131:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv6.png",VTV6
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/premium/master.m3u8
+udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv7.png",VTV7
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/premium/master.m3u8
+udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv8.png",VTV8
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/premium/master.m3u8
+udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv9.png",VTV9
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/premium/master.m3u8
+udp://@225.1.1.128:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV/VTVcab"  tvg-logo="https://vietsimpletv.ucoz.com/live/logo/vtv10.png",VTV10
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/premium/master.m3u8
+udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="nghean" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/nghean.png",NGHỆ AN
-https://freem3u.xyz/api/live/play.m3u8?vid=74
+udp://@225.1.2.183:30120
 #EXTINF:0 tvg-id="antvhd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/antv.png",AN NINH TV
-https://freem3u.xyz/api/live/play.m3u8?vid=20
+udp://@225.1.2.169:30120
 #EXTINF:0 tvg-id="qpvnhd" group-title="VTV/VTVcab" tvg-logo="https://vietsimpletv.ucoz.com/live/logo/qptv.png",QUỐC PHÒNG TV
-https://freem3u.xyz/api/live/play.m3u8?vid=19
+udp://@225.1.2.217:30120
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTV/VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
